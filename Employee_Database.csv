@@ -1,0 +1,634 @@
+Unique ID,Name,Gender,Age,Rec ID,Source ID,Nationality,Nationality Status,Position Assigned,Salary,BU ID,Time to Hire,Onboarding Date,Termination Date,Termination Reason,Left,Experience,Job Satisfaction,Absenteesm,OvertimeHours,Bonus,Total Salary,Position Status
+20190005,Candidate20190005,Male,47,Hashim,2,Japan,Developed Country,ED,1676821,1,17,43570,,,,25,8,0.07,353,197305.9377,1874126.938,Leadership Position
+20190012,Candidate20190012,Male,24,Saksham,6,India,Developing Country,Analyst,1169018,1,11,43594,43952,Better Opportunities,Left,2,2,0.08,311,121188.1993,1290206.199,Non Leadership Position
+20190014,Candidate20190014,Female,30,Nirmit,6,Japan,Developed Country,Analyst,903984,1,12,43764,44157,Work Life Balance,Left,5,4,0.11,307,92507.696,996491.696,Non Leadership Position
+20190017,Candidate20190017,Male,46,Saksham,6,Japan,Developed Country,ED,1766818,2,14,43796,,,,24,9,0.09,312,183749.072,1950567.072,Leadership Position
+20190020,Candidate20190020,Female,26,Khushi,6,USA,Developed Country,Analyst,851871,1,12,43554,,,,4,10,0.07,309,87742.713,939613.713,Non Leadership Position
+20190024,Candidate20190024,Male,44,Khushi,6,Brazil,Developing Country,ED,1708857,1,15,43808,,,,18,9,0.05,355,202214.745,1911071.745,Leadership Position
+20190025,Candidate20190025,Female,22,Hashim,6,Japan,Developed Country,Analyst,903307,2,14,43563,44073,Pay Disparity,Left,0,3,0.08,312,93943.928,997250.928,Non Leadership Position
+20190029,Candidate20190029,Male,48,Saksham,6,Japan,Developed Country,Associate,1219414,1,15,43608,,,,22,8,0.08,340,138200.2533,1357614.253,Non Leadership Position
+20190040,Candidate20190040,Female,23,Hashim,6,Brazil,Developing Country,Analyst,944906,1,16,43548,43952,Pay Disparity,Left,1,4,0.08,305,96065.44333,1040971.443,Non Leadership Position
+20190042,Candidate20190042,Male,53,Nirmit,6,China,Developing Country,ED,1748867,1,13,43655,,,,28,8,0.08,304,177218.5227,1926085.523,Leadership Position
+20190045,Candidate20190045,Female,22,Nirmit,6,China,Developing Country,Analyst,866978,1,15,43553,43943,Pay Disparity,Left,0,5,0.07,319,92188.66067,959166.6607,Non Leadership Position
+20190047,Candidate20190047,Female,28,Kashish,6,Japan,Developed Country,Analyst,854847,3,13,43518,44033,Better Opportunities,Left,6,3,0.07,310,88334.19,943181.19,Non Leadership Position
+20190053,Candidate20190053,Male,39,Saksham,6,India,Developing Country,MD,1951283,1,15,43694,,,,13,7,0.04,349,226999.2557,2178282.256,Leadership Position
+20190054,Candidate20190054,Male,48,Saksham,6,USA,Developed Country,ED,1618363,1,14,43810,,,,26,7,0.05,325,175322.6583,1793685.658,Leadership Position
+20190062,Candidate20190062,Female,26,Nirmit,6,USA,Developed Country,Analyst,968279,2,15,43518,,,,4,5,0.09,308,99409.97733,1067688.977,Non Leadership Position
+20190067,Candidate20190067,Male,23,Hashim,6,USA,Developed Country,Analyst,1131463,3,13,43747,43943,Better Opportunities,Left,1,2,0.08,357,134644.097,1266107.097,Non Leadership Position
+20190076,Candidate20190076,Female,30,Hashim,6,India,Developing Country,Analyst,867189,2,12,43503,44033,Work Life Balance,Left,7,3,0.07,317,91632.971,958821.971,Non Leadership Position
+20190077,Candidate20190077,Female,27,Saksham,6,Japan,Developed Country,Analyst,838965,4,13,43545,44073,Negative Work Culture,Left,2,4,0.1,320,89489.6,928454.6,Non Leadership Position
+20190078,Candidate20190078,Male,46,Nirmit,6,Japan,Developed Country,ED,1733749,3,14,43533,,,,21,7,0.04,309,178576.147,1912325.147,Leadership Position
+20190086,Candidate20190086,Male,28,Kashish,6,USA,Developed Country,Analyst,1158668,4,12,43602,43952,Negative Work Culture,Left,2,3,0.07,350,135177.9333,1293845.933,Non Leadership Position
+20190087,Candidate20190087,Female,27,Saksham,6,Brazil,Developing Country,Analyst,888228,2,15,43742,,,,2,5,0.07,316,93560.016,981788.016,Non Leadership Position
+20190088,Candidate20190088,Male,36,Nirmit,6,China,Developing Country,ED,1715776,2,15,43528,,,,14,9,0.09,328,187591.5093,1903367.509,Leadership Position
+20190089,Candidate20190089,Male,45,Khushi,6,USA,Developed Country,ED,1746205,2,15,43759,43943,Negative Work Culture,Left,22,3,0.06,300,174620.5,1920825.5,Leadership Position
+20190092,Candidate20190092,Male,46,Kashish,6,India,Developing Country,MD,1864145,2,16,43614,,,,21,10,0.06,325,201949.0417,2066094.042,Leadership Position
+20190095,Candidate20190095,Male,53,Nirmit,6,USA,Developed Country,ED,1620994,3,14,43571,,,,31,9,0.04,317,171285.0327,1792279.033,Leadership Position
+20190106,Candidate20190106,Male,32,Saksham,1,India,Developing Country,Analyst,1014066,3,16,43523,,,,6,8,0.07,324,109519.128,1123585.128,Non Leadership Position
+20190115,Candidate20190115,Female,39,Hashim,6,Japan,Developed Country,ED,1493853,4,13,43523,44033,Negative Work Culture,Left,15,4,0.11,301,149883.251,1643736.251,Leadership Position
+20190116,Candidate20190116,Male,29,Khushi,6,India,Developing Country,Analyst,1158521,4,17,43609,43943,Better Opportunities,Left,7,5,0.05,315,121644.705,1280165.705,Non Leadership Position
+20190117,Candidate20190117,Male,50,Nirmit,6,Japan,Developed Country,Associate,1328511,2,14,43568,44157,Better Opportunities,Left,24,4,0.07,312,138165.144,1466676.144,Non Leadership Position
+20190120,Candidate20190120,Male,44,Kashish,6,India,Developing Country,ED,1728191,1,15,43769,,,,18,10,0.04,334,192405.2647,1920596.265,Leadership Position
+20190130,Candidate20190130,Male,41,Saksham,6,USA,Developed Country,ED,1740529,4,13,43604,,,,18,7,0.06,329,190878.0137,1931407.014,Leadership Position
+20190135,Candidate20190135,Male,28,Hashim,6,Japan,Developed Country,Analyst,1197649,1,16,43494,,,,5,9,0.06,303,120962.549,1318611.549,Non Leadership Position
+20190136,Candidate20190136,Male,54,Kashish,6,USA,Developed Country,MD,1826802,1,13,43508,44157,Negative Work Culture,Left,28,4,0.07,324,197294.616,2024096.616,Leadership Position
+20190138,Candidate20190138,Female,40,Saksham,6,USA,Developed Country,MD,1622199,2,11,43495,,,,16,3,0.07,316,170871.628,1793070.628,Leadership Position
+20190140,Candidate20190140,Male,32,Saksham,6,Japan,Developed Country,Analyst,1139718,2,15,43550,,,,10,10,0.05,308,117011.048,1256729.048,Non Leadership Position
+20190141,Candidate20190141,Female,30,Nirmit,6,USA,Developed Country,Analyst,944579,1,14,43571,44024,Work Life Balance,Left,7,5,0.08,304,95717.33867,1040296.339,Non Leadership Position
+20190154,Candidate20190154,Female,36,Hashim,6,India,Developing Country,ED,1506887,2,13,43550,,,,10,6,0.09,307,154204.7697,1661091.77,Leadership Position
+20190155,Candidate20190155,Female,23,Khushi,6,USA,Developed Country,Analyst,841762,2,13,43689,44149,Pay Disparity,Left,1,2,0.07,305,85579.13667,927341.1367,Non Leadership Position
+20190157,Candidate20190157,Male,30,Nirmit,6,USA,Developed Country,Analyst,1096900,3,13,43507,44157,Negative Work Culture,Left,5,2,0.04,357,130531.1,1227431.1,Non Leadership Position
+20190158,Candidate20190158,Male,44,Nirmit,1,Japan,Developed Country,MD,1887386,1,12,43622,,,,22,10,0.07,320,201321.1733,2088707.173,Leadership Position
+20190161,Candidate20190161,Female,42,Khushi,6,Japan,Developed Country,MD,1637381,2,15,43718,,,,19,7,0.08,308,168104.4493,1805485.449,Leadership Position
+20190162,Candidate20190162,Male,23,Khushi,4,Japan,Developed Country,Associate,1247861,3,12,43527,,,,1,10,0.04,340,141424.2467,1389285.247,Non Leadership Position
+20190163,Candidate20190163,Female,50,Hashim,6,Brazil,Developing Country,ED,1444532,2,16,43489,,,,27,7,0.07,311,149749.8173,1594281.817,Leadership Position
+20190170,Candidate20190170,Female,29,Kashish,6,Japan,Developed Country,Analyst,934498,3,12,43774,44177,Work Life Balance,Left,3,4,0.08,302,94072.79867,1028570.799,Non Leadership Position
+20190174,Candidate20190174,Female,30,Khushi,5,Japan,Developed Country,Analyst,868101,4,14,43580,43963,Work Life Balance,Left,5,5,0.11,302,87388.834,955489.834,Non Leadership Position
+20190181,Candidate20190181,Male,48,Hashim,1,Japan,Developed Country,MD,1897090,3,11,43547,,,,25,9,0.08,302,190973.7267,2088063.727,Leadership Position
+20190183,Candidate20190183,Male,46,Saksham,6,Japan,Developed Country,MD,1850513,4,12,43600,,,,24,8,0.09,359,221444.7223,2071957.722,Leadership Position
+20190188,Candidate20190188,Female,22,Saksham,6,Japan,Developed Country,Associate,1023247,4,14,43495,43937,Pay Disparity,Left,0,4,0.07,315,107440.935,1130687.935,Non Leadership Position
+20190192,Candidate20190192,Male,33,Hashim,6,Brazil,Developing Country,Associate,1223275,1,15,43751,,,,7,10,0.06,347,141492.1417,1364767.142,Non Leadership Position
+20190193,Candidate20190193,Male,42,Kashish,6,Japan,Developed Country,Analyst,1070186,1,13,43583,,,,20,10,0.06,320,114153.1733,1184339.173,Non Leadership Position
+20190194,Candidate20190194,Female,23,Hashim,6,Japan,Developed Country,Analyst,849949,2,15,43772,43854,Pay Disparity,Left,1,2,0.11,300,84994.9,934943.9,Non Leadership Position
+20190197,Candidate20190197,Male,36,Kashish,3,Japan,Developed Country,Associate,1285848,1,16,43554,,,,13,9,0.04,301,129013.416,1414861.416,Non Leadership Position
+20190208,Candidate20190208,Male,28,Kashish,6,China,Developing Country,Analyst,1033762,2,13,43624,,,,6,7,0.09,320,110267.9467,1144029.947,Non Leadership Position
+20190210,Candidate20190210,Female,26,Hashim,6,USA,Developed Country,Analyst,864487,4,12,43528,,,,4,7,0.09,301,86736.86233,951223.8623,Non Leadership Position
+20190211,Candidate20190211,Male,49,Hashim,6,Japan,Developed Country,Analyst,1169379,3,13,43571,,,,25,7,0.08,319,124343.967,1293722.967,Non Leadership Position
+20190215,Candidate20190215,Female,25,Nirmit,4,USA,Developed Country,Analyst,930959,1,14,43695,,,,3,3,0.11,301,93406.21967,1024365.22,Non Leadership Position
+20190223,Candidate20190223,Male,23,Kashish,6,Japan,Developed Country,Analyst,1000856,4,13,43716,,,,1,7,0.09,318,106090.736,1106946.736,Non Leadership Position
+20190224,Candidate20190224,Male,41,Hashim,6,China,Developing Country,MD,1832985,1,16,43531,,,,18,7,0.04,330,201628.35,2034613.35,Leadership Position
+20190227,Candidate20190227,Male,25,Saksham,6,USA,Developed Country,Analyst,1083345,2,14,43605,,,,3,10,0.07,325,117362.375,1200707.375,Non Leadership Position
+20190233,Candidate20190233,Female,24,Khushi,6,Japan,Developed Country,Associate,1106532,2,13,43512,43891,Pay Disparity,Left,2,3,0.08,309,113972.796,1220504.796,Non Leadership Position
+20190240,Candidate20190240,Female,38,Khushi,6,Brazil,Developing Country,ED,1473442,3,14,43545,,,,13,7,0.11,314,154220.2627,1627662.263,Leadership Position
+20190241,Candidate20190241,Female,29,Nirmit,6,Japan,Developed Country,Associate,1016069,3,14,43798,44170,Work Life Balance,Left,7,4,0.08,320,108380.6933,1124449.693,Non Leadership Position
+20190246,Candidate20190246,Male,47,Kashish,6,USA,Developed Country,MD,1874557,3,11,43519,,,,22,10,0.08,350,218698.3167,2093255.317,Leadership Position
+20190251,Candidate20190251,Male,44,Kashish,4,India,Developing Country,Analyst,1116301,1,13,43644,,,,18,7,0.05,346,128746.7153,1245047.715,Non Leadership Position
+20190255,Candidate20190255,Male,49,Khushi,6,USA,Developed Country,MD,1873933,4,16,43499,,,,26,9,0.06,332,207381.9187,2081314.919,Leadership Position
+20190256,Candidate20190256,Female,22,Hashim,6,Brazil,Developing Country,Associate,1033271,2,14,43616,,,,0,5,0.09,313,107804.6077,1141075.608,Non Leadership Position
+20190257,Candidate20190257,Male,22,Kashish,3,USA,Developed Country,Analyst,1167745,3,13,43701,,,,0,10,0.05,354,137793.91,1305538.91,Non Leadership Position
+20190259,Candidate20190259,Male,40,Saksham,6,Japan,Developed Country,Associate,1208140,4,13,43664,,,,16,10,0.08,355,142963.2333,1351103.233,Non Leadership Position
+20190267,Candidate20190267,Male,23,Kashish,6,Japan,Developed Country,Analyst,1145180,1,13,43530,,,,1,8,0.05,309,117953.54,1263133.54,Non Leadership Position
+20190272,Candidate20190272,Female,23,Khushi,6,China,Developing Country,Analyst,887506,3,13,43809,,,,1,4,0.11,315,93188.13,980694.13,Non Leadership Position
+20190276,Candidate20190276,Male,27,Hashim,6,USA,Developed Country,Analyst,1021143,4,13,43659,,,,4,7,0.08,312,106198.872,1127341.872,Non Leadership Position
+20190278,Candidate20190278,Male,34,Nirmit,6,USA,Developed Country,Analyst,1030994,1,14,43607,,,,9,9,0.09,331,113753.0047,1144747.005,Non Leadership Position
+20190279,Candidate20190279,Male,41,Hashim,6,USA,Developed Country,Analyst,1033923,2,17,43762,,,,18,8,0.06,356,122692.196,1156615.196,Non Leadership Position
+20190288,Candidate20190288,Female,30,Kashish,6,Japan,Developed Country,Analyst,998694,2,15,43783,44140,Work Life Balance,Left,5,3,0.11,318,105861.564,1104555.564,Non Leadership Position
+20190289,Candidate20190289,Male,23,Khushi,6,Japan,Developed Country,Associate,1329023,1,15,43734,,,,1,8,0.09,352,155938.6987,1484961.699,Non Leadership Position
+20190290,Candidate20190290,Male,26,Hashim,6,Japan,Developed Country,Analyst,1175284,3,14,43589,,,,4,9,0.07,316,123796.5813,1299080.581,Non Leadership Position
+20190294,Candidate20190294,Male,39,Saksham,6,China,Developing Country,MD,1880208,2,13,43482,,,,16,9,0.06,360,225624.96,2105832.96,Leadership Position
+20190296,Candidate20190296,Female,27,Nirmit,6,Japan,Developed Country,Analyst,957763,4,14,43744,,,,3,8,0.08,314,100245.8607,1058008.861,Non Leadership Position
+20190304,Candidate20190304,Male,25,Khushi,1,Japan,Developed Country,Associate,1275563,2,15,43656,,,,3,10,0.06,334,142012.6807,1417575.681,Non Leadership Position
+20190305,Candidate20190305,Female,29,Saksham,2,USA,Developed Country,Analyst,854894,3,11,43603,44011,Work Life Balance,Left,3,3,0.11,318,90618.764,945512.764,Non Leadership Position
+20190310,Candidate20190310,Male,22,Kashish,6,China,Developing Country,Analyst,1192380,4,16,43806,,,,0,7,0.06,304,120827.84,1313207.84,Non Leadership Position
+20190311,Candidate20190311,Male,26,Nirmit,6,USA,Developed Country,Analyst,1074946,4,14,43572,,,,4,10,0.08,330,118244.06,1193190.06,Non Leadership Position
+20190314,Candidate20190314,Male,51,Nirmit,6,USA,Developed Country,Analyst,1013418,1,14,43693,,,,28,9,0.04,324,109449.144,1122867.144,Non Leadership Position
+20190318,Candidate20190318,Male,53,Saksham,6,Brazil,Developing Country,Analyst,1101014,3,17,43669,,,,31,8,0.05,353,129552.6473,1230566.647,Non Leadership Position
+20190319,Candidate20190319,Male,37,Nirmit,6,India,Developing Country,Analyst,1130026,2,13,43610,,,,12,7,0.05,338,127316.2627,1257342.263,Non Leadership Position
+20190324,Candidate20190324,Male,49,Nirmit,6,China,Developing Country,ED,1614635,3,12,43677,,,,26,8,0.06,311,167383.8283,1782018.828,Leadership Position
+20190331,Candidate20190331,Male,24,Saksham,6,Japan,Developed Country,Associate,1278608,3,15,43690,,,,2,8,0.04,336,143204.096,1421812.096,Non Leadership Position
+20190336,Candidate20190336,Male,39,Hashim,6,China,Developing Country,Analyst,1016257,1,16,43738,,,,17,8,0.04,330,111788.27,1128045.27,Non Leadership Position
+20190344,Candidate20190344,Male,53,Kashish,6,Japan,Developed Country,Analyst,1146490,1,16,43738,,,,30,8,0.06,346,132228.5133,1278718.513,Non Leadership Position
+20190351,Candidate20190351,Male,26,Saksham,4,China,Developing Country,Analyst,1048201,2,13,43699,,,,4,8,0.09,343,119844.3143,1168045.314,Non Leadership Position
+20190353,Candidate20190353,Male,47,Nirmit,6,USA,Developed Country,Analyst,1190478,2,16,43627,,,,25,7,0.04,349,138492.274,1328970.274,Non Leadership Position
+20190358,Candidate20190358,Male,23,Saksham,6,Japan,Developed Country,Analyst,1100665,2,13,43618,,,,1,10,0.04,341,125108.9217,1225773.922,Non Leadership Position
+20190360,Candidate20190360,Male,48,Hashim,6,Japan,Developed Country,Associate,1233170,4,14,43599,,,,25,10,0.07,355,145925.1167,1379095.117,Non Leadership Position
+20190362,Candidate20190362,Male,50,Nirmit,6,China,Developing Country,MD,1999079,3,14,43772,,,,24,8,0.07,305,203239.6983,2202318.698,Leadership Position
+20190369,Candidate20190369,Male,39,Nirmit,4,USA,Developed Country,Analyst,1128786,3,13,43657,,,,13,7,0.09,314,118146.268,1246932.268,Non Leadership Position
+20190371,Candidate20190371,Male,31,Hashim,6,Japan,Developed Country,Associate,1361958,1,16,43795,,,,7,8,0.09,336,152539.296,1514497.296,Non Leadership Position
+20190373,Candidate20190373,Male,34,Saksham,6,Japan,Developed Country,Analyst,1055030,3,15,43503,,,,10,10,0.07,319,112184.8567,1167214.857,Non Leadership Position
+20190381,Candidate20190381,Female,28,Nirmit,2,Brazil,Developing Country,Analyst,815695,4,12,43672,,,,5,6,0.08,318,86463.67,902158.67,Non Leadership Position
+20190382,Candidate20190382,Male,42,Kashish,6,Brazil,Developing Country,MD,1851485,1,12,43566,,,,17,10,0.06,302,186382.8233,2037867.823,Leadership Position
+20190391,Candidate20190391,Female,24,Hashim,6,Brazil,Developing Country,Analyst,809111,1,14,43771,,,,2,6,0.08,310,83608.13667,892719.1367,Non Leadership Position
+20190395,Candidate20190395,Female,23,Khushi,6,China,Developing Country,Analyst,948432,3,15,43725,,,,1,8,0.11,314,99269.216,1047701.216,Non Leadership Position
+20190396,Candidate20190396,Male,29,Saksham,6,Japan,Developed Country,Analyst,1037255,4,14,43756,,,,3,8,0.08,333,115135.305,1152390.305,Non Leadership Position
+20190403,Candidate20190403,Male,42,Khushi,6,Japan,Developed Country,Associate,1329074,2,17,43703,,,,17,9,0.04,312,138223.696,1467297.696,Non Leadership Position
+20190407,Candidate20190407,Male,43,Saksham,2,USA,Developed Country,Analyst,1059661,4,14,43760,,,,19,9,0.06,312,110204.744,1169865.744,Non Leadership Position
+20190408,Candidate20190408,Male,34,Nirmit,6,China,Developing Country,Analyst,1157122,4,14,43805,,,,12,9,0.05,312,120340.688,1277462.688,Non Leadership Position
+20190410,Candidate20190410,Male,53,Khushi,4,USA,Developed Country,Analyst,1141570,1,15,43701,,,,31,7,0.09,345,131280.55,1272850.55,Non Leadership Position
+20190413,Candidate20190413,Male,25,Saksham,6,China,Developing Country,Analyst,1067902,1,12,43748,,,,3,8,0.05,315,112129.71,1180031.71,Non Leadership Position
+20190416,Candidate20190416,Female,28,Nirmit,6,USA,Developed Country,Analyst,860670,2,12,43562,,,,5,7,0.08,303,86927.67,947597.67,Non Leadership Position
+20190421,Candidate20190421,Male,53,Hashim,6,USA,Developed Country,Analyst,1199647,3,14,43627,,,,31,7,0.07,342,136759.758,1336406.758,Non Leadership Position
+20190423,Candidate20190423,Male,52,Hashim,6,China,Developing Country,Analyst,1071531,2,14,43601,,,,26,9,0.04,323,115368.171,1186899.171,Non Leadership Position
+20190424,Candidate20190424,Female,27,Khushi,6,USA,Developed Country,Analyst,988746,4,13,43806,,,,1,6,0.07,305,100522.51,1089268.51,Non Leadership Position
+20190429,Candidate20190429,Male,33,Hashim,6,USA,Developed Country,Analyst,1116814,1,15,43499,,,,10,10,0.04,320,119126.8267,1235940.827,Non Leadership Position
+20190440,Candidate20190440,Male,35,Kashish,6,USA,Developed Country,VP,2990746,5,13,43627,,,,10,8,0.07,344,342938.8747,3333684.875,Leadership Position
+20190447,Candidate20190447,Male,46,Khushi,6,India,Developing Country,Analyst,1063321,3,13,43643,,,,20,10,0.07,349,123699.6763,1187020.676,Non Leadership Position
+20190455,Candidate20190455,Male,43,Khushi,6,Japan,Developed Country,Analyst,1107985,1,16,43610,,,,21,8,0.04,308,113753.1267,1221738.127,Non Leadership Position
+20190458,Candidate20190458,Male,29,Hashim,6,USA,Developed Country,Analyst,1181938,2,17,43636,,,,4,8,0.04,304,119769.7173,1301707.717,Non Leadership Position
+20190464,Candidate20190464,Male,22,Nirmit,6,Brazil,Developing Country,Analyst,1045936,2,13,43649,,,,0,8,0.07,354,123420.448,1169356.448,Non Leadership Position
+20190466,Candidate20190466,Female,29,Hashim,6,USA,Developed Country,Analyst,919568,3,13,43577,44031,Work Life Balance,Left,7,2,0.1,320,98087.25333,1017655.253,Non Leadership Position
+20190468,Candidate20190468,Male,40,Kashish,6,Japan,Developed Country,Associate,1290896,3,13,43721,,,,18,10,0.07,356,153186.3253,1444082.325,Non Leadership Position
+20190470,Candidate20190470,Male,34,Hashim,4,Japan,Developed Country,Analyst,1161915,2,12,43691,,,,8,8,0.09,353,136718.665,1298633.665,Non Leadership Position
+20190474,Candidate20190474,Male,36,Khushi,6,USA,Developed Country,Analyst,1035540,4,14,43720,,,,12,8,0.05,330,113909.4,1149449.4,Non Leadership Position
+20190475,Candidate20190475,Male,24,Nirmit,6,China,Developing Country,Analyst,1097903,3,13,43769,,,,2,7,0.04,358,131016.4247,1228919.425,Non Leadership Position
+20190478,Candidate20190478,Female,41,Hashim,4,China,Developing Country,ED,1498830,4,13,43511,,,,15,5,0.08,308,153879.88,1652709.88,Leadership Position
+20190481,Candidate20190481,Male,24,Hashim,6,USA,Developed Country,Analyst,1037920,1,13,43536,,,,2,8,0.09,313,108289.6533,1146209.653,Non Leadership Position
+20190484,Candidate20190484,Female,26,Hashim,1,Japan,Developed Country,Analyst,919037,3,13,43642,,,,4,7,0.09,307,94048.11967,1013085.12,Non Leadership Position
+20190485,Candidate20190485,Male,28,Kashish,6,USA,Developed Country,Analyst,1112900,2,11,43545,,,,5,7,0.08,320,118709.3333,1231609.333,Non Leadership Position
+20190495,Candidate20190495,Male,43,Hashim,6,China,Developing Country,Analyst,1020663,4,13,43657,,,,17,8,0.07,347,118056.687,1138719.687,Non Leadership Position
+20190496,Candidate20190496,Male,51,Nirmit,5,USA,Developed Country,Associate,1289553,1,11,43795,,,,25,9,0.04,356,153026.956,1442579.956,Non Leadership Position
+20190497,Candidate20190497,Female,44,Nirmit,6,Japan,Developed Country,Associate,1019097,4,14,43549,,,,20,7,0.11,317,107684.583,1126781.583,Non Leadership Position
+20190503,Candidate20190503,Male,36,Kashish,6,India,Developing Country,Analyst,1158058,4,16,43673,,,,14,7,0.05,331,127772.3993,1285830.399,Non Leadership Position
+20190504,Candidate20190504,Male,25,Hashim,3,Japan,Developed Country,Analyst,1146746,4,15,43784,,,,3,10,0.09,320,122319.5733,1269065.573,Non Leadership Position
+20190505,Candidate20190505,Male,26,Nirmit,5,Japan,Developed Country,Analyst,1110154,1,13,43750,,,,4,8,0.08,345,127667.71,1237821.71,Non Leadership Position
+20190508,Candidate20190508,Male,29,Hashim,6,Japan,Developed Country,Associate,1380305,1,12,43487,,,,3,10,0.08,317,145852.2283,1526157.228,Non Leadership Position
+20190516,Candidate20190516,Male,45,Saksham,6,Japan,Developed Country,Analyst,1123755,2,11,43607,,,,22,9,0.09,350,131104.75,1254859.75,Non Leadership Position
+20190519,Candidate20190519,Male,35,Hashim,6,India,Developing Country,Analyst,1039859,1,14,43731,,,,13,10,0.07,357,123743.221,1163602.221,Non Leadership Position
+20190520,Candidate20190520,Male,54,Nirmit,6,USA,Developed Country,Associate,1265598,2,15,43675,,,,29,9,0.04,311,131200.326,1396798.326,Non Leadership Position
+20190528,Candidate20190528,Male,51,Nirmit,6,Japan,Developed Country,Associate,1259913,2,12,43535,,,,28,7,0.05,311,130610.981,1390523.981,Non Leadership Position
+20190530,Candidate20190530,Male,50,Saksham,6,Japan,Developed Country,Analyst,1179554,3,11,43789,,,,26,8,0.09,330,129750.94,1309304.94,Non Leadership Position
+20190531,Candidate20190531,Female,23,Saksham,6,USA,Developed Country,Associate,1126009,3,15,43524,,,,1,7,0.07,302,113351.5727,1239360.573,Non Leadership Position
+20190533,Candidate20190533,Female,25,Saksham,2,USA,Developed Country,Associate,1087140,4,16,43711,,,,3,3,0.1,309,111975.42,1199115.42,Non Leadership Position
+20190535,Candidate20190535,Male,34,Nirmit,6,Japan,Developed Country,Analyst,1055023,4,15,43641,,,,12,7,0.04,337,118514.2503,1173537.25,Non Leadership Position
+20190536,Candidate20190536,Male,29,Saksham,6,Brazil,Developing Country,VP,2830930,5,14,43602,,,,3,8,0.09,345,325556.95,3156486.95,Leadership Position
+20190537,Candidate20190537,Male,49,Kashish,6,USA,Developed Country,Associate,1285905,1,13,43738,,,,23,8,0.08,322,138020.47,1423925.47,Non Leadership Position
+20190539,Candidate20190539,Male,34,Saksham,6,USA,Developed Country,Associate,1335970,2,17,43517,,,,11,8,0.07,316,140722.1733,1476692.173,Non Leadership Position
+20190540,Candidate20190540,Female,28,Kashish,6,Brazil,Developing Country,Associate,1146689,3,11,43691,,,,3,4,0.09,306,116962.278,1263651.278,Non Leadership Position
+20190543,Candidate20190543,Male,52,Khushi,6,USA,Developed Country,Associate,1281601,3,13,43778,,,,30,8,0.07,337,143966.5123,1425567.512,Non Leadership Position
+20190547,Candidate20190547,Male,33,Hashim,6,USA,Developed Country,Associate,1367477,4,13,43664,,,,8,9,0.04,353,160906.4603,1528383.46,Non Leadership Position
+20190559,Candidate20190559,Male,25,Saksham,6,Japan,Developed Country,Associate,1215585,3,16,43713,,,,3,7,0.04,335,135740.325,1351325.325,Non Leadership Position
+20190563,Candidate20190563,Female,49,Nirmit,6,USA,Developed Country,Associate,1088976,1,14,43660,,,,25,6,0.07,306,111075.552,1200051.552,Non Leadership Position
+20190564,Candidate20190564,Female,26,Kashish,5,China,Developing Country,Analyst,834895,1,12,43619,,,,4,5,0.11,317,88220.57167,923115.5717,Non Leadership Position
+20190565,Candidate20190565,Male,44,Hashim,3,India,Developing Country,MD,1994267,3,13,43582,,,,20,7,0.07,312,207403.768,2201670.768,Leadership Position
+20190566,Candidate20190566,Male,44,Kashish,2,China,Developing Country,VP,2822901,5,14,43741,,,,21,8,0.09,333,313342.011,3136243.011,Leadership Position
+20190583,Candidate20190583,Male,25,Kashish,6,Brazil,Developing Country,Analyst,1036035,3,16,43703,,,,3,7,0.06,359,123978.855,1160013.855,Non Leadership Position
+20190588,Candidate20190588,Female,26,Kashish,5,Japan,Developed Country,Analyst,856717,1,15,43578,,,,4,4,0.1,318,90812.002,947529.002,Non Leadership Position
+20190589,Candidate20190589,Female,29,Saksham,5,USA,Developed Country,Associate,1170399,2,15,43615,,,,6,3,0.11,310,120941.23,1291340.23,Non Leadership Position
+20190594,Candidate20190594,Male,32,Nirmit,1,Japan,Developed Country,Analyst,1178083,2,15,43584,,,,8,8,0.05,346,135872.2393,1313955.239,Non Leadership Position
+20190600,Candidate20190600,Female,45,Khushi,6,USA,Developed Country,Associate,1082449,3,12,43556,,,,19,6,0.11,319,115100.4103,1197549.41,Non Leadership Position
+20190602,Candidate20190602,Male,32,Nirmit,6,Japan,Developed Country,Analyst,1174909,3,16,43529,,,,8,7,0.04,322,126106.8993,1301015.899,Non Leadership Position
+20190604,Candidate20190604,Male,51,Hashim,6,Japan,Developed Country,Analyst,1192255,4,13,43614,,,,27,7,0.07,340,135122.2333,1327377.233,Non Leadership Position
+20190609,Candidate20190609,Male,48,Kashish,6,USA,Developed Country,Associate,1379008,4,14,43588,,,,24,8,0.05,316,145255.5093,1524263.509,Non Leadership Position
+20190622,Candidate20190622,Male,52,Nirmit,6,USA,Developed Country,Associate,1381651,1,14,43628,,,,29,7,0.09,326,150139.4087,1531790.409,Non Leadership Position
+20190624,Candidate20190624,Male,32,Hashim,6,Japan,Developed Country,Analyst,1073794,1,17,43649,,,,6,9,0.07,320,114538.0267,1188332.027,Non Leadership Position
+20190633,Candidate20190633,Female,29,Nirmit,6,Japan,Developed Country,Analyst,834869,2,16,43558,,,,7,4,0.07,308,85713.21733,920582.2173,Non Leadership Position
+20190637,Candidate20190637,Male,36,Saksham,6,Brazil,Developing Country,ED,1684405,4,15,43523,,,,11,7,0.09,345,193706.575,1878111.575,Leadership Position
+20190642,Candidate20190642,Male,49,Hashim,6,China,Developing Country,Analyst,1071100,2,12,43756,,,,25,10,0.05,339,121034.3,1192134.3,Non Leadership Position
+20190643,Candidate20190643,Female,24,Hashim,6,Japan,Developed Country,Associate,1041608,4,13,43753,,,,2,4,0.08,309,107285.624,1148893.624,Non Leadership Position
+20190644,Candidate20190644,Male,44,Hashim,6,Brazil,Developing Country,MD,1877382,2,13,43809,,,,22,8,0.09,327,204634.638,2082016.638,Leadership Position
+20190649,Candidate20190649,Male,35,Hashim,6,China,Developing Country,Analyst,1035851,3,16,43520,,,,9,8,0.08,358,123611.5527,1159462.553,Non Leadership Position
+20190651,Candidate20190651,Male,45,Saksham,6,Japan,Developed Country,Associate,1222059,1,15,43523,,,,23,7,0.05,339,138092.667,1360151.667,Non Leadership Position
+20190659,Candidate20190659,Female,26,Hashim,6,India,Developing Country,Analyst,931664,2,15,43639,,,,4,7,0.08,320,99377.49333,1031041.493,Non Leadership Position
+20190665,Candidate20190665,Male,28,Khushi,6,USA,Developed Country,Associate,1376600,2,16,43590,,,,2,10,0.05,339,155555.8,1532155.8,Non Leadership Position
+20190667,Candidate20190667,Male,55,Hashim,6,China,Developing Country,Analyst,1151635,4,14,43606,44034,Retirement,Left,31,2,0.09,317,121689.4317,1273324.432,Non Leadership Position
+20190668,Candidate20190668,Male,47,Nirmit,6,China,Developing Country,Analyst,1080718,1,11,43771,,,,23,9,0.04,340,122481.3733,1203199.373,Non Leadership Position
+20190670,Candidate20190670,Male,31,Saksham,6,Japan,Developed Country,Associate,1322739,2,15,43614,,,,8,9,0.04,338,149028.594,1471767.594,Non Leadership Position
+20190677,Candidate20190677,Female,28,Khushi,6,Brazil,Developing Country,Associate,1106694,4,14,43490,,,,2,8,0.11,308,113620.584,1220314.584,Non Leadership Position
+20190679,Candidate20190679,Male,41,Saksham,6,India,Developing Country,VP,2791328,5,17,43600,,,,16,9,0.09,300,279132.8,3070460.8,Leadership Position
+20190684,Candidate20190684,Male,36,Hashim,6,Japan,Developed Country,Associate,1330065,3,12,43711,,,,14,9,0.04,331,146750.505,1476815.505,Non Leadership Position
+20190686,Candidate20190686,Female,26,Khushi,6,USA,Developed Country,Associate,1111476,3,15,43551,,,,4,7,0.07,312,115593.504,1227069.504,Non Leadership Position
+20190688,Candidate20190688,Female,27,Saksham,6,USA,Developed Country,Associate,1189333,4,12,43545,,,,1,3,0.1,311,123294.1877,1312627.188,Non Leadership Position
+20190693,Candidate20190693,Male,35,Hashim,6,Japan,Developed Country,Associate,1274935,4,16,43606,,,,11,8,0.04,330,140242.85,1415177.85,Non Leadership Position
+20190698,Candidate20190698,Male,48,Hashim,6,Japan,Developed Country,Analyst,1120838,3,14,43736,,,,22,10,0.08,354,132258.884,1253096.884,Non Leadership Position
+20190699,Candidate20190699,Male,46,Kashish,6,China,Developing Country,Analyst,1122086,2,15,43663,,,,24,9,0.06,324,121185.288,1243271.288,Non Leadership Position
+20190701,Candidate20190701,Female,29,Hashim,6,Japan,Developed Country,Analyst,979743,4,15,43770,,,,3,8,0.09,307,100260.367,1080003.367,Non Leadership Position
+20190703,Candidate20190703,Male,23,Kashish,6,USA,Developed Country,Associate,1328130,1,14,43490,,,,1,10,0.09,360,159375.6,1487505.6,Non Leadership Position
+20190704,Candidate20190704,Male,38,Hashim,4,USA,Developed Country,Associate,1276804,2,14,43503,,,,14,10,0.05,320,136192.4267,1412996.427,Non Leadership Position
+20190710,Candidate20190710,Male,28,Hashim,6,USA,Developed Country,Associate,1360549,3,13,43641,,,,5,10,0.04,331,150113.9063,1510662.906,Non Leadership Position
+20190711,Candidate20190711,Male,40,Kashish,6,Japan,Developed Country,Analyst,1014003,1,17,43568,,,,14,7,0.04,313,105794.313,1119797.313,Non Leadership Position
+20190717,Candidate20190717,Female,22,Saksham,6,India,Developing Country,Analyst,980826,3,11,43679,,,,0,7,0.08,311,101678.962,1082504.962,Non Leadership Position
+20190719,Candidate20190719,Male,24,Khushi,6,Japan,Developed Country,Analyst,1176212,2,11,43748,,,,2,7,0.08,302,118405.3413,1294617.341,Non Leadership Position
+20190722,Candidate20190722,Male,53,Nirmit,6,Japan,Developed Country,Analyst,1100574,3,13,43729,,,,27,7,0.06,303,111157.974,1211731.974,Non Leadership Position
+20190723,Candidate20190723,Female,51,Saksham,6,Japan,Developed Country,VP,2415289,5,13,43511,,,,29,5,0.1,310,249579.8633,2664868.863,Leadership Position
+20190724,Candidate20190724,Male,52,Saksham,6,USA,Developed Country,Associate,1369987,4,14,43550,,,,30,7,0.07,323,147501.9337,1517488.934,Non Leadership Position
+20190730,Candidate20190730,Female,28,Nirmit,6,Japan,Developed Country,Analyst,854047,4,16,43750,,,,4,3,0.08,307,87397.47633,941444.4763,Non Leadership Position
+20190731,Candidate20190731,Male,30,Kashish,6,USA,Developed Country,Associate,1300795,1,14,43627,,,,4,7,0.06,347,150458.6217,1451253.622,Non Leadership Position
+20190732,Candidate20190732,Male,42,Saksham,6,China,Developing Country,Associate,1266441,1,13,43573,,,,19,8,0.08,334,140997.098,1407438.098,Non Leadership Position
+20190733,Candidate20190733,Female,25,Nirmit,2,Japan,Developed Country,Analyst,944230,1,14,43520,,,,3,5,0.07,312,98199.92,1042429.92,Non Leadership Position
+20190737,Candidate20190737,Male,33,Nirmit,6,Japan,Developed Country,Analyst,1066247,2,16,43804,,,,8,9,0.05,359,127594.2243,1193841.224,Non Leadership Position
+20190740,Candidate20190740,Male,51,Hashim,6,USA,Developed Country,Associate,1201575,2,15,43634,,,,26,7,0.06,325,130170.625,1331745.625,Non Leadership Position
+20190742,Candidate20190742,Male,40,Saksham,5,China,Developing Country,Associate,1248795,2,16,43546,,,,14,8,0.05,334,139032.51,1387827.51,Non Leadership Position
+20190749,Candidate20190749,Male,31,Kashish,6,Japan,Developed Country,Analyst,1151016,3,12,43554,,,,7,8,0.06,304,116636.288,1267652.288,Non Leadership Position
+20190751,Candidate20190751,Female,22,Nirmit,6,USA,Developed Country,Associate,1060130,3,13,43591,,,,0,3,0.08,309,109193.39,1169323.39,Non Leadership Position
+20190753,Candidate20190753,Female,22,Hashim,6,China,Developing Country,Associate,1144874,3,13,43755,,,,0,6,0.09,303,115632.274,1260506.274,Non Leadership Position
+20190761,Candidate20190761,Male,27,Kashish,6,Japan,Developed Country,Analyst,1154447,4,16,43652,,,,4,10,0.08,309,118908.041,1273355.041,Non Leadership Position
+20190764,Candidate20190764,Male,35,Kashish,6,USA,Developed Country,Associate,1317645,4,14,43682,,,,13,7,0.06,335,147137.025,1464782.025,Non Leadership Position
+20190766,Candidate20190766,Female,29,Hashim,6,Brazil,Developing Country,Analyst,810085,4,11,43678,,,,7,6,0.09,306,82628.67,892713.67,Non Leadership Position
+20190767,Candidate20190767,Male,53,Khushi,6,Japan,Developed Country,Analyst,1162412,1,16,43492,,,,30,7,0.06,315,122053.26,1284465.26,Non Leadership Position
+20190779,Candidate20190779,Male,30,Kashish,6,Brazil,Developing Country,Associate,1251780,1,14,43716,,,,5,10,0.09,331,138113.06,1389893.06,Non Leadership Position
+20190780,Candidate20190780,Male,38,Khushi,6,Brazil,Developing Country,MD,1985503,3,12,43499,,,,16,7,0.09,305,201859.4717,2187362.472,Leadership Position
+20190782,Candidate20190782,Male,39,Khushi,6,USA,Developed Country,Associate,1281772,1,15,43536,,,,16,7,0.09,303,129458.972,1411230.972,Non Leadership Position
+20190783,Candidate20190783,Male,31,Saksham,1,Japan,Developed Country,Analyst,1091521,2,12,43774,,,,9,7,0.04,336,122250.352,1213771.352,Non Leadership Position
+20190786,Candidate20190786,Male,47,Saksham,6,USA,Developed Country,Associate,1395817,2,13,43578,,,,23,8,0.04,319,148421.8743,1544238.874,Non Leadership Position
+20190792,Candidate20190792,Male,36,Saksham,6,Japan,Developed Country,Analyst,1063010,3,14,43594,,,,13,10,0.07,328,116222.4267,1179232.427,Non Leadership Position
+20190795,Candidate20190795,Male,34,Nirmit,6,USA,Developed Country,Analyst,1047090,3,16,43723,,,,10,9,0.04,341,119019.23,1166109.23,Non Leadership Position
+20190796,Candidate20190796,Male,44,Kashish,6,Japan,Developed Country,Analyst,1086542,4,14,43791,,,,19,10,0.06,350,126763.2333,1213305.233,Non Leadership Position
+20190800,Candidate20190800,Male,42,Kashish,3,China,Developing Country,Associate,1379255,4,12,43640,,,,19,8,0.04,310,142523.0167,1521778.017,Non Leadership Position
+20190803,Candidate20190803,Female,25,Saksham,3,Brazil,Developing Country,Analyst,810465,1,13,43586,,,,3,3,0.09,303,81856.965,892321.965,Non Leadership Position
+20190806,Candidate20190806,Male,46,Kashish,6,Japan,Developed Country,Analyst,1060667,1,12,43635,,,,20,10,0.06,352,124451.5947,1185118.595,Non Leadership Position
+20190810,Candidate20190810,Female,26,Nirmit,6,USA,Developed Country,Associate,1157218,3,16,43688,,,,4,4,0.1,302,116493.2787,1273711.279,Non Leadership Position
+20190811,Candidate20190811,Male,38,Kashish,6,Japan,Developed Country,Analyst,1118093,2,12,43660,,,,12,7,0.06,355,132307.6717,1250400.672,Non Leadership Position
+20190814,Candidate20190814,Male,33,Hashim,6,China,Developing Country,Associate,1382334,1,15,43487,,,,8,8,0.05,349,160811.522,1543145.522,Non Leadership Position
+20190824,Candidate20190824,Female,22,Nirmit,5,China,Developing Country,Associate,1113181,2,14,43541,,,,0,4,0.11,304,112802.3413,1225983.341,Non Leadership Position
+20190826,Candidate20190826,Female,27,Nirmit,6,Japan,Developed Country,Analyst,944388,3,12,43594,,,,1,4,0.07,316,99475.536,1043863.536,Non Leadership Position
+20190833,Candidate20190833,Male,34,Nirmit,6,USA,Developed Country,Analyst,1023484,4,12,43538,,,,11,10,0.05,326,111218.5947,1134702.595,Non Leadership Position
+20190839,Candidate20190839,Female,22,Nirmit,6,Japan,Developed Country,Analyst,997249,4,12,43741,,,,0,7,0.08,316,105043.5613,1102292.561,Non Leadership Position
+20190841,Candidate20190841,Male,55,Nirmit,2,USA,Developed Country,Analyst,1156056,1,14,43707,44157,Retirement,Left,29,5,0.07,345,132946.44,1289002.44,Non Leadership Position
+20190843,Candidate20190843,Female,28,Khushi,1,Japan,Developed Country,Analyst,921844,1,14,43773,,,,4,4,0.07,319,98022.74533,1019866.745,Non Leadership Position
+20190844,Candidate20190844,Male,55,Saksham,6,Japan,Developed Country,Analyst,1052196,2,15,43624,44168,Retirement,Left,29,1,0.09,307,107674.724,1159870.724,Non Leadership Position
+20190846,Candidate20190846,Female,52,Hashim,6,India,Developing Country,MD,1689573,4,12,43773,,,,26,6,0.1,319,179657.929,1869230.929,Leadership Position
+20190852,Candidate20190852,Male,39,Kashish,6,Japan,Developed Country,Analyst,1000767,3,13,43693,,,,14,7,0.08,336,112085.904,1112852.904,Non Leadership Position
+20190853,Candidate20190853,Male,27,Nirmit,6,India,Developing Country,Analyst,1148897,4,14,43674,,,,5,10,0.06,337,129059.4297,1277956.43,Non Leadership Position
+20190854,Candidate20190854,Male,49,Hashim,6,Japan,Developed Country,Analyst,1127530,4,14,43543,,,,23,9,0.09,307,115383.9033,1242913.903,Non Leadership Position
+20190855,Candidate20190855,Male,53,Saksham,6,Japan,Developed Country,Analyst,1104850,1,13,43778,,,,30,10,0.07,348,128162.6,1233012.6,Non Leadership Position
+20190856,Candidate20190856,Male,51,Khushi,6,Brazil,Developing Country,MD,1873824,4,12,43752,,,,29,10,0.09,328,204871.424,2078695.424,Leadership Position
+20190857,Candidate20190857,Male,25,Hashim,6,China,Developing Country,Associate,1241456,3,15,43786,,,,3,10,0.05,331,136973.9787,1378429.979,Non Leadership Position
+20190860,Candidate20190860,Male,52,Kashish,5,USA,Developed Country,Analyst,1083125,2,14,43563,,,,27,7,0.04,342,123476.25,1206601.25,Non Leadership Position
+20190867,Candidate20190867,Male,40,Kashish,4,India,Developing Country,ED,1605310,3,13,43537,,,,17,9,0.04,312,166952.24,1772262.24,Leadership Position
+20190869,Candidate20190869,Male,46,Nirmit,6,Japan,Developed Country,Analyst,1028959,2,15,43521,,,,23,9,0.04,313,107354.7223,1136313.722,Non Leadership Position
+20190871,Candidate20190871,Male,38,Khushi,6,Japan,Developed Country,Analyst,1099416,3,16,43491,,,,13,7,0.08,308,112873.376,1212289.376,Non Leadership Position
+20190873,Candidate20190873,Female,26,Khushi,6,USA,Developed Country,Analyst,969221,3,13,43655,,,,4,5,0.07,318,102737.426,1071958.426,Non Leadership Position
+20190874,Candidate20190874,Male,23,Saksham,6,Japan,Developed Country,Associate,1233851,1,14,43613,,,,1,10,0.08,338,139013.8793,1372864.879,Non Leadership Position
+20190875,Candidate20190875,Male,51,Saksham,6,Japan,Developed Country,Associate,1238618,2,16,43769,,,,29,9,0.09,329,135835.1073,1374453.107,Non Leadership Position
+20190880,Candidate20190880,Male,37,Nirmit,6,USA,Developed Country,Analyst,1104194,4,15,43711,,,,11,7,0.08,317,116676.4993,1220870.499,Non Leadership Position
+20190881,Candidate20190881,Male,29,Khushi,6,China,Developing Country,Associate,1342453,4,13,43621,,,,7,8,0.07,356,159304.4227,1501757.423,Non Leadership Position
+20190883,Candidate20190883,Female,36,Hashim,6,China,Developing Country,MD,1684518,4,14,43797,,,,14,3,0.11,316,177435.896,1861953.896,Leadership Position
+20190893,Candidate20190893,Male,28,Kashish,6,India,Developing Country,Analyst,1017386,1,15,43609,,,,4,9,0.08,356,120729.8053,1138115.805,Non Leadership Position
+20190894,Candidate20190894,Male,34,Kashish,6,China,Developing Country,Associate,1285955,1,14,43572,,,,11,9,0.05,327,140169.095,1426124.095,Non Leadership Position
+20190899,Candidate20190899,Male,39,Khushi,1,USA,Developed Country,Analyst,1182772,1,17,43649,,,,15,9,0.05,339,133653.236,1316425.236,Non Leadership Position
+20190901,Candidate20190901,Male,47,Kashish,6,India,Developing Country,ED,1765175,4,13,43657,,,,25,8,0.08,305,179459.4583,1944634.458,Leadership Position
+20190906,Candidate20190906,Male,48,Kashish,6,USA,Developed Country,Analyst,1095470,2,12,43591,,,,23,7,0.04,343,125248.7367,1220718.737,Non Leadership Position
+20190911,Candidate20190911,Male,44,Khushi,4,India,Developing Country,Associate,1373067,1,14,43622,,,,22,10,0.08,326,149206.614,1522273.614,Non Leadership Position
+20190912,Candidate20190912,Male,45,Nirmit,3,Japan,Developed Country,Associate,1378429,3,12,43679,,,,22,10,0.06,305,140140.2817,1518569.282,Non Leadership Position
+20190914,Candidate20190914,Male,54,Khushi,6,India,Developing Country,Associate,1290386,2,12,43772,,,,31,8,0.09,338,145383.4893,1435769.489,Non Leadership Position
+20190932,Candidate20190932,Male,37,Hashim,6,USA,Developed Country,Analyst,1166557,3,13,43538,,,,12,10,0.05,337,131043.2363,1297600.236,Non Leadership Position
+20190936,Candidate20190936,Male,35,Hashim,6,USA,Developed Country,Analyst,1129206,4,15,43595,,,,11,10,0.04,333,125341.866,1254547.866,Non Leadership Position
+20190941,Candidate20190941,Male,33,Nirmit,1,China,Developing Country,Associate,1242442,2,14,43681,,,,10,10,0.06,317,131284.7047,1373726.705,Non Leadership Position
+20190943,Candidate20190943,Male,46,Kashish,6,India,Developing Country,Associate,1331472,3,14,43768,,,,23,9,0.08,346,153563.104,1485035.104,Non Leadership Position
+20190945,Candidate20190945,Male,48,Kashish,6,Japan,Developed Country,Associate,1289034,4,16,43767,,,,22,9,0.09,335,143942.13,1432976.13,Non Leadership Position
+20190946,Candidate20190946,Male,24,Khushi,6,USA,Developed Country,Analyst,1090116,1,16,43667,,,,2,7,0.06,314,114098.808,1204214.808,Non Leadership Position
+20190952,Candidate20190952,Female,25,Saksham,2,India,Developing Country,Associate,1151226,4,14,43629,,,,3,8,0.11,309,118576.278,1269802.278,Non Leadership Position
+20190955,Candidate20190955,Male,40,Khushi,6,Japan,Developed Country,Associate,1313637,1,13,43659,,,,17,7,0.04,339,148440.981,1462077.981,Non Leadership Position
+20190956,Candidate20190956,Male,53,Kashish,5,USA,Developed Country,Analyst,1187661,2,11,43524,,,,27,9,0.06,359,142123.433,1329784.433,Non Leadership Position
+20190960,Candidate20190960,Male,49,Kashish,6,USA,Developed Country,Analyst,1179329,3,14,43641,,,,23,10,0.05,335,131691.7383,1311020.738,Non Leadership Position
+20190961,Candidate20190961,Female,24,Khushi,6,India,Developing Country,Associate,1106175,1,16,43493,,,,2,3,0.09,314,115779.65,1221954.65,Non Leadership Position
+20190965,Candidate20190965,Male,28,Khushi,6,Japan,Developed Country,Associate,1296240,2,13,43702,,,,5,9,0.07,356,153820.48,1450060.48,Non Leadership Position
+20190971,Candidate20190971,Male,22,Nirmit,1,Japan,Developed Country,Associate,1398451,3,11,43588,,,,0,8,0.08,328,152897.3093,1551348.309,Non Leadership Position
+20190972,Candidate20190972,Male,51,Kashish,1,Japan,Developed Country,Associate,1213600,4,14,43670,,,,27,7,0.08,349,141182.1333,1354782.133,Non Leadership Position
+20190973,Candidate20190973,Male,36,Khushi,6,India,Developing Country,Associate,1263720,2,14,43662,,,,12,9,0.06,335,141115.4,1404835.4,Non Leadership Position
+20190979,Candidate20190979,Female,50,Khushi,6,USA,Developed Country,Analyst,933737,4,15,43772,,,,28,4,0.11,314,97731.13933,1031468.139,Non Leadership Position
+20190980,Candidate20190980,Male,46,Kashish,3,USA,Developed Country,Analyst,1013023,1,13,43706,,,,21,9,0.09,323,109068.8097,1122091.81,Non Leadership Position
+20190981,Candidate20190981,Male,51,Saksham,6,Japan,Developed Country,Associate,1255905,1,11,43530,,,,29,9,0.08,329,137730.915,1393635.915,Non Leadership Position
+20190983,Candidate20190983,Male,39,Saksham,6,China,Developing Country,Associate,1333799,3,14,43606,,,,17,7,0.08,304,135158.2987,1468957.299,Non Leadership Position
+20190988,Candidate20190988,Male,49,Kashish,6,USA,Developed Country,Analyst,1040340,2,13,43735,,,,27,8,0.07,326,113050.28,1153390.28,Non Leadership Position
+20191000,Candidate20191000,Female,27,Hashim,6,India,Developing Country,Associate,1056799,3,12,43521,,,,5,3,0.11,307,108145.7643,1164944.764,Non Leadership Position
+20190005,Candidate20190005,Male,47,Hashim,2,Japan,Developed Country,ED,1676821,1,17,43570,,,,25,8,0.07,331,185009.2503,1861830.25,Leadership Position
+20190017,Candidate20190017,Male,46,Saksham,6,Japan,Developed Country,ED,1766818,2,14,43796,,,,24,9,0.09,315,185515.89,1952333.89,Leadership Position
+20190020,Candidate20190020,Female,26,Khushi,6,USA,Developed Country,Analyst,851871,1,12,43554,44081,Negative Work Culture,Left,4,6,0.07,305,86606.885,938477.885,Non Leadership Position
+20190024,Candidate20190024,Male,44,Khushi,6,Brazil,Developing Country,ED,1708857,1,15,43808,,,,18,9,0.05,325,185126.175,1893983.175,Leadership Position
+20190029,Candidate20190029,Male,48,Saksham,6,Japan,Developed Country,Associate,1219414,1,15,43608,44140,Negative Work Culture,Left,22,8,0.08,346,140639.0813,1360053.081,Non Leadership Position
+20190042,Candidate20190042,Male,53,Nirmit,6,China,Developing Country,ED,1748867,1,13,43655,,,,28,8,0.08,338,197039.0153,1945906.015,Leadership Position
+20190053,Candidate20190053,Male,39,Saksham,6,India,Developing Country,MD,1951283,1,15,43694,,,,13,7,0.04,314,204234.2873,2155517.287,Leadership Position
+20190054,Candidate20190054,Male,48,Saksham,6,USA,Developed Country,ED,1618363,1,14,43810,,,,26,7,0.05,301,162375.7543,1780738.754,Leadership Position
+20190062,Candidate20190062,Female,26,Nirmit,6,USA,Developed Country,Analyst,968279,2,15,43518,43929,Negative Work Culture,Left,4,5,0.09,306,98764.458,1067043.458,Non Leadership Position
+20190078,Candidate20190078,Male,46,Nirmit,6,Japan,Developed Country,ED,1733749,3,14,43533,,,,21,7,0.04,360,208049.88,1941798.88,Leadership Position
+20190087,Candidate20190087,Female,27,Saksham,6,Brazil,Developing Country,Analyst,888228,2,15,43742,43972,Pay Disparity,Left,2,5,0.07,310,91783.56,980011.56,Non Leadership Position
+20190088,Candidate20190088,Male,36,Nirmit,6,China,Developing Country,ED,1715776,2,15,43528,,,,14,9,0.09,346,197886.1653,1913662.165,Leadership Position
+20190092,Candidate20190092,Male,46,Kashish,6,India,Developing Country,MD,1864145,2,16,43614,,,,21,10,0.06,309,192006.935,2056151.935,Leadership Position
+20190095,Candidate20190095,Male,53,Nirmit,6,USA,Developed Country,ED,1620994,3,14,43571,,,,31,9,0.04,358,193438.6173,1814432.617,Leadership Position
+20190106,Candidate20190106,Male,32,Saksham,1,India,Developing Country,Analyst,1014066,3,16,43523,43981,Negative Work Culture,Left,6,8,0.07,341,115265.502,1129331.502,Non Leadership Position
+20190120,Candidate20190120,Male,44,Kashish,6,India,Developing Country,ED,1728191,1,15,43769,,,,18,10,0.04,347,199894.0923,1928085.092,Leadership Position
+20190130,Candidate20190130,Male,41,Saksham,6,USA,Developed Country,ED,1740529,4,13,43604,,,,18,7,0.06,323,187396.9557,1927925.956,Leadership Position
+20190135,Candidate20190135,Male,28,Hashim,6,Japan,Developed Country,Analyst,1197649,1,16,43494,,,,5,9,0.06,319,127350.0103,1324999.01,Non Leadership Position
+20190138,Candidate20190138,Female,40,Saksham,6,USA,Developed Country,MD,1622199,2,11,43495,,,,16,3,0.07,311,168167.963,1790366.963,Leadership Position
+20190140,Candidate20190140,Male,32,Saksham,6,Japan,Developed Country,Analyst,1139718,2,15,43550,44172,Negative Work Culture,Left,10,10,0.05,336,127648.416,1267366.416,Non Leadership Position
+20190154,Candidate20190154,Female,36,Hashim,6,India,Developing Country,ED,1506887,2,13,43550,,,,10,6,0.09,316,158725.4307,1665612.431,Leadership Position
+20190158,Candidate20190158,Male,44,Nirmit,1,Japan,Developed Country,MD,1887386,1,12,43622,,,,22,10,0.07,304,191255.1147,2078641.115,Leadership Position
+20190161,Candidate20190161,Female,42,Khushi,6,Japan,Developed Country,MD,1637381,2,15,43718,,,,19,7,0.08,319,174108.1797,1811489.18,Leadership Position
+20190162,Candidate20190162,Male,23,Khushi,4,Japan,Developed Country,Associate,1247861,3,12,43527,,,,1,10,0.04,322,133937.0807,1381798.081,Non Leadership Position
+20190163,Candidate20190163,Female,50,Hashim,6,Brazil,Developing Country,ED,1444532,2,16,43489,,,,27,10,0.07,305,146860.7533,1591392.753,Leadership Position
+20190181,Candidate20190181,Male,48,Hashim,1,Japan,Developed Country,MD,1897090,3,11,43547,,,,25,9,0.08,344,217532.9867,2114622.987,Leadership Position
+20190183,Candidate20190183,Male,46,Saksham,6,Japan,Developed Country,MD,1850513,4,12,43600,,,,24,8,0.09,311,191836.5143,2042349.514,Leadership Position
+20190192,Candidate20190192,Male,33,Hashim,6,Brazil,Developing Country,Associate,1223275,1,15,43751,,,,7,10,0.06,359,146385.2417,1369660.242,Non Leadership Position
+20190193,Candidate20190193,Male,42,Kashish,6,Japan,Developed Country,Analyst,1070186,1,13,43583,,,,20,10,0.06,330,117720.46,1187906.46,Non Leadership Position
+20190197,Candidate20190197,Male,36,Kashish,3,Japan,Developed Country,Associate,1285848,1,16,43554,44048,Negative Work Culture,Left,13,9,0.04,323,138442.968,1424290.968,Non Leadership Position
+20190208,Candidate20190208,Male,28,Kashish,6,China,Developing Country,Analyst,1033762,2,13,43624,44058,Negative Work Culture,Left,6,7,0.09,327,112680.058,1146442.058,Non Leadership Position
+20190210,Candidate20190210,Female,26,Hashim,6,USA,Developed Country,Analyst,864487,4,12,43528,44001,Negative Work Culture,Left,4,7,0.09,318,91635.622,956122.622,Non Leadership Position
+20190211,Candidate20190211,Male,49,Hashim,6,Japan,Developed Country,Analyst,1169379,3,13,43571,44166,Negative Work Culture,Left,25,7,0.08,304,118497.072,1287876.072,Non Leadership Position
+20190215,Candidate20190215,Female,25,Nirmit,4,USA,Developed Country,Analyst,930959,1,14,43695,44096,Pay Disparity,Left,3,3,0.11,308,95578.45733,1026537.457,Non Leadership Position
+20190223,Candidate20190223,Male,23,Kashish,6,Japan,Developed Country,Analyst,1000856,4,13,43716,44024,Negative Work Culture,Left,1,7,0.09,309,103088.168,1103944.168,Non Leadership Position
+20190224,Candidate20190224,Male,41,Hashim,6,China,Developing Country,MD,1832985,1,16,43531,,,,18,7,0.04,349,213237.255,2046222.255,Leadership Position
+20190227,Candidate20190227,Male,25,Saksham,6,USA,Developed Country,Analyst,1083345,2,14,43605,,,,3,10,0.07,344,124223.56,1207568.56,Non Leadership Position
+20190240,Candidate20190240,Female,38,Khushi,6,Brazil,Developing Country,ED,1473442,3,14,43545,,,,13,10,0.11,313,153729.1153,1627171.115,Leadership Position
+20190246,Candidate20190246,Male,47,Kashish,6,USA,Developed Country,MD,1874557,3,11,43519,,,,22,10,0.08,334,208700.6793,2083257.679,Leadership Position
+20190251,Candidate20190251,Male,44,Kashish,4,India,Developing Country,Analyst,1116301,1,13,43644,,,,18,7,0.05,312,116095.304,1232396.304,Non Leadership Position
+20190255,Candidate20190255,Male,49,Khushi,6,USA,Developed Country,MD,1873933,4,16,43499,,,,26,9,0.06,332,207381.9187,2081314.919,Leadership Position
+20190256,Candidate20190256,Female,22,Hashim,6,Brazil,Developing Country,Associate,1033271,2,14,43616,,,,0,5,0.09,306,105393.642,1138664.642,Non Leadership Position
+20190257,Candidate20190257,Male,22,Kashish,3,USA,Developed Country,Analyst,1167745,3,13,43701,,,,0,10,0.05,300,116774.5,1284519.5,Non Leadership Position
+20190259,Candidate20190259,Male,40,Saksham,6,Japan,Developed Country,Associate,1208140,4,13,43664,43931,Negative Work Culture,Left,16,10,0.08,348,140144.24,1348284.24,Non Leadership Position
+20190267,Candidate20190267,Male,23,Kashish,6,Japan,Developed Country,Analyst,1145180,1,13,43530,44018,Negative Work Culture,Left,1,8,0.05,322,122915.9867,1268095.987,Non Leadership Position
+20190272,Candidate20190272,Female,23,Khushi,6,China,Developing Country,Analyst,887506,3,13,43809,44026,Pay Disparity,Left,1,4,0.11,315,93188.13,980694.13,Non Leadership Position
+20190276,Candidate20190276,Male,27,Hashim,6,USA,Developed Country,Analyst,1021143,4,13,43659,43980,Negative Work Culture,Left,4,7,0.08,330,112325.73,1133468.73,Non Leadership Position
+20190278,Candidate20190278,Male,34,Nirmit,6,USA,Developed Country,Analyst,1030994,1,14,43607,,,,9,9,0.09,349,119938.9687,1150932.969,Non Leadership Position
+20190279,Candidate20190279,Male,41,Hashim,6,USA,Developed Country,Analyst,1033923,2,17,43762,,,,18,8,0.06,348,119935.068,1153858.068,Non Leadership Position
+20190289,Candidate20190289,Male,23,Khushi,6,Japan,Developed Country,Associate,1329023,1,15,43734,,,,1,8,0.09,355,157267.7217,1486290.722,Non Leadership Position
+20190290,Candidate20190290,Male,26,Hashim,6,Japan,Developed Country,Analyst,1175284,3,14,43589,,,,4,9,0.07,340,133198.8533,1308482.853,Non Leadership Position
+20190294,Candidate20190294,Male,39,Saksham,6,China,Developing Country,MD,1880208,2,13,43482,,,,16,9,0.06,351,219984.336,2100192.336,Leadership Position
+20190296,Candidate20190296,Female,27,Nirmit,6,Japan,Developed Country,Analyst,957763,4,14,43744,,,,3,8,0.08,318,101522.878,1059285.878,Non Leadership Position
+20190304,Candidate20190304,Male,25,Khushi,1,Japan,Developed Country,Associate,1275563,2,15,43656,44034,Better Opportunities,Left,3,10,0.06,326,138611.1793,1414174.179,Non Leadership Position
+20190310,Candidate20190310,Male,22,Kashish,6,China,Developing Country,Analyst,1192380,4,16,43806,44063,Better Opportunities,Left,0,7,0.06,348,138316.08,1330696.08,Non Leadership Position
+20190311,Candidate20190311,Male,26,Nirmit,6,USA,Developed Country,Analyst,1074946,4,14,43572,44025,Better Opportunities,Left,4,10,0.08,360,128993.52,1203939.52,Non Leadership Position
+20190314,Candidate20190314,Male,51,Nirmit,6,USA,Developed Country,Analyst,1013418,1,14,43693,43933,Better Opportunities,Left,28,9,0.04,307,103706.442,1117124.442,Non Leadership Position
+20190318,Candidate20190318,Male,53,Saksham,6,Brazil,Developing Country,Analyst,1101014,3,17,43669,43983,Retirement,Left,31,8,0.05,348,127717.624,1228731.624,Non Leadership Position
+20190319,Candidate20190319,Male,37,Nirmit,6,India,Developing Country,Analyst,1130026,2,13,43610,44069,Better Opportunities,Left,12,7,0.05,360,135603.12,1265629.12,Non Leadership Position
+20190324,Candidate20190324,Male,49,Nirmit,6,China,Developing Country,ED,1614635,3,12,43677,,,,26,8,0.06,331,178148.0617,1792783.062,Leadership Position
+20190331,Candidate20190331,Male,24,Saksham,6,Japan,Developed Country,Associate,1278608,3,15,43690,44063,Better Opportunities,Left,2,8,0.04,342,145761.312,1424369.312,Non Leadership Position
+20190336,Candidate20190336,Male,39,Hashim,6,China,Developing Country,Analyst,1016257,1,16,43738,,,,17,8,0.04,354,119918.326,1136175.326,Non Leadership Position
+20190344,Candidate20190344,Male,53,Kashish,6,Japan,Developed Country,Analyst,1146490,1,16,43738,,,,30,8,0.06,326,124585.2467,1271075.247,Non Leadership Position
+20190351,Candidate20190351,Male,26,Saksham,4,China,Developing Country,Analyst,1048201,2,13,43699,,,,4,8,0.09,337,117747.9123,1165948.912,Non Leadership Position
+20190353,Candidate20190353,Male,47,Nirmit,6,USA,Developed Country,Analyst,1190478,2,16,43627,,,,25,7,0.04,352,139682.752,1330160.752,Non Leadership Position
+20190358,Candidate20190358,Male,23,Saksham,6,Japan,Developed Country,Analyst,1100665,2,13,43618,,,,1,10,0.04,329,120706.2617,1221371.262,Non Leadership Position
+20190360,Candidate20190360,Male,48,Hashim,6,Japan,Developed Country,Associate,1233170,4,14,43599,,,,25,10,0.07,324,133182.36,1366352.36,Non Leadership Position
+20190362,Candidate20190362,Male,50,Nirmit,6,China,Developing Country,MD,1999079,3,14,43772,,,,24,8,0.07,325,216566.8917,2215645.892,Leadership Position
+20190369,Candidate20190369,Male,39,Nirmit,4,USA,Developed Country,Analyst,1128786,3,13,43657,,,,13,7,0.09,341,128305.342,1257091.342,Non Leadership Position
+20190371,Candidate20190371,Male,31,Hashim,6,Japan,Developed Country,Associate,1361958,1,16,43795,,,,7,8,0.09,330,149815.38,1511773.38,Non Leadership Position
+20190373,Candidate20190373,Male,34,Saksham,6,Japan,Developed Country,Analyst,1055030,3,15,43503,,,,10,10,0.07,328,115349.9467,1170379.947,Non Leadership Position
+20190381,Candidate20190381,Female,28,Nirmit,2,Brazil,Developing Country,Analyst,815695,4,12,43672,43950,Pay Disparity,Left,5,6,0.08,320,87007.46667,902702.4667,Non Leadership Position
+20190382,Candidate20190382,Male,42,Kashish,6,Brazil,Developing Country,MD,1851485,1,12,43566,,,,17,10,0.06,300,185148.5,2036633.5,Leadership Position
+20190391,Candidate20190391,Female,24,Hashim,6,Brazil,Developing Country,Analyst,809111,1,14,43771,,,,2,6,0.08,305,82259.61833,891370.6183,Non Leadership Position
+20190395,Candidate20190395,Female,23,Khushi,6,China,Developing Country,Analyst,948432,3,15,43725,44164,Negative Work Culture,Left,1,8,0.11,309,97688.496,1046120.496,Non Leadership Position
+20190396,Candidate20190396,Male,29,Saksham,6,Japan,Developed Country,Analyst,1037255,4,14,43756,,,,3,8,0.08,317,109603.2783,1146858.278,Non Leadership Position
+20190403,Candidate20190403,Male,42,Khushi,6,Japan,Developed Country,Associate,1329074,2,17,43703,,,,17,9,0.04,337,149299.3127,1478373.313,Non Leadership Position
+20190407,Candidate20190407,Male,43,Saksham,2,USA,Developed Country,Analyst,1059661,4,14,43760,,,,19,9,0.06,320,113030.5067,1172691.507,Non Leadership Position
+20190408,Candidate20190408,Male,34,Nirmit,6,China,Developing Country,Analyst,1157122,4,14,43805,,,,12,9,0.05,355,136926.1033,1294048.103,Non Leadership Position
+20190410,Candidate20190410,Male,53,Khushi,4,USA,Developed Country,Analyst,1141570,1,15,43701,,,,31,7,0.09,300,114157,1255727,Non Leadership Position
+20190413,Candidate20190413,Male,25,Saksham,6,China,Developing Country,Analyst,1067902,1,12,43748,,,,3,8,0.05,317,112841.6447,1180743.645,Non Leadership Position
+20190416,Candidate20190416,Female,28,Nirmit,6,USA,Developed Country,Analyst,860670,2,12,43562,44103,Pay Disparity,Left,5,7,0.08,303,86927.67,947597.67,Non Leadership Position
+20190421,Candidate20190421,Male,53,Hashim,6,USA,Developed Country,Analyst,1199647,3,14,43627,,,,31,7,0.07,310,123963.5233,1323610.523,Non Leadership Position
+20190423,Candidate20190423,Male,52,Hashim,6,China,Developing Country,Analyst,1071531,2,14,43601,,,,26,9,0.04,317,113225.109,1184756.109,Non Leadership Position
+20190424,Candidate20190424,Female,27,Khushi,6,USA,Developed Country,Analyst,988746,4,13,43806,44154,Pay Disparity,Left,1,6,0.07,304,100192.928,1088938.928,Non Leadership Position
+20190429,Candidate20190429,Male,33,Hashim,6,USA,Developed Country,Analyst,1116814,1,15,43499,,,,10,10,0.04,358,133273.1373,1250087.137,Non Leadership Position
+20190440,Candidate20190440,Male,35,Kashish,6,USA,Developed Country,VP,2990746,5,13,43627,,,,10,8,0.07,332,330975.8907,3321721.891,Leadership Position
+20190447,Candidate20190447,Male,46,Khushi,6,India,Developing Country,Analyst,1063321,3,13,43643,,,,20,10,0.07,312,110585.384,1173906.384,Non Leadership Position
+20190455,Candidate20190455,Male,43,Khushi,6,Japan,Developed Country,Analyst,1107985,1,16,43610,,,,21,8,0.04,360,132958.2,1240943.2,Non Leadership Position
+20190458,Candidate20190458,Male,29,Hashim,6,USA,Developed Country,Analyst,1181938,2,17,43636,,,,4,8,0.04,350,137892.7667,1319830.767,Non Leadership Position
+20190464,Candidate20190464,Male,22,Nirmit,6,Brazil,Developing Country,Analyst,1045936,2,13,43649,,,,0,8,0.07,338,117842.1227,1163778.123,Non Leadership Position
+20190468,Candidate20190468,Male,40,Kashish,6,Japan,Developed Country,Associate,1290896,3,13,43721,,,,18,10,0.07,332,142859.1573,1433755.157,Non Leadership Position
+20190470,Candidate20190470,Male,34,Hashim,4,Japan,Developed Country,Analyst,1161915,2,12,43691,,,,8,8,0.09,312,120839.16,1282754.16,Non Leadership Position
+20190474,Candidate20190474,Male,36,Khushi,6,USA,Developed Country,Analyst,1035540,4,14,43720,,,,12,8,0.05,339,117016.02,1152556.02,Non Leadership Position
+20190475,Candidate20190475,Male,24,Nirmit,6,China,Developing Country,Analyst,1097903,3,13,43769,,,,2,7,0.04,318,116377.718,1214280.718,Non Leadership Position
+20190478,Candidate20190478,Female,41,Hashim,4,China,Developing Country,ED,1498830,4,13,43511,,,,15,10,0.08,311,155378.71,1654208.71,Leadership Position
+20190481,Candidate20190481,Male,24,Hashim,6,USA,Developed Country,Analyst,1037920,1,13,43536,,,,2,8,0.09,328,113479.2533,1151399.253,Non Leadership Position
+20190484,Candidate20190484,Female,26,Hashim,1,Japan,Developed Country,Analyst,919037,3,13,43642,,,,4,7,0.09,314,96192.53933,1015229.539,Non Leadership Position
+20190485,Candidate20190485,Male,28,Kashish,6,USA,Developed Country,Analyst,1112900,2,11,43545,,,,5,7,0.08,324,120193.2,1233093.2,Non Leadership Position
+20190495,Candidate20190495,Male,43,Hashim,6,China,Developing Country,Analyst,1020663,4,13,43657,,,,17,8,0.07,323,109891.383,1130554.383,Non Leadership Position
+20190496,Candidate20190496,Male,51,Nirmit,5,USA,Developed Country,Associate,1289553,1,11,43795,,,,25,9,0.04,323,138841.873,1428394.873,Non Leadership Position
+20190497,Candidate20190497,Female,44,Nirmit,6,Japan,Developed Country,Associate,1019097,4,14,43549,,,,20,7,0.11,305,103608.195,1122705.195,Non Leadership Position
+20190503,Candidate20190503,Male,36,Kashish,6,India,Developing Country,Analyst,1158058,4,16,43673,,,,14,7,0.05,335,129316.4767,1287374.477,Non Leadership Position
+20190504,Candidate20190504,Male,25,Hashim,3,Japan,Developed Country,Analyst,1146746,4,15,43784,,,,3,10,0.09,300,114674.6,1261420.6,Non Leadership Position
+20190505,Candidate20190505,Male,26,Nirmit,5,Japan,Developed Country,Analyst,1110154,1,13,43750,,,,4,8,0.08,330,122116.94,1232270.94,Non Leadership Position
+20190508,Candidate20190508,Male,29,Hashim,6,Japan,Developed Country,Associate,1380305,1,12,43487,,,,3,10,0.08,329,151373.4483,1531678.448,Non Leadership Position
+20190516,Candidate20190516,Male,45,Saksham,6,Japan,Developed Country,Analyst,1123755,2,11,43607,,,,22,9,0.09,333,124736.805,1248491.805,Non Leadership Position
+20190519,Candidate20190519,Male,35,Hashim,6,India,Developing Country,Analyst,1039859,1,14,43731,,,,13,10,0.07,327,113344.631,1153203.631,Non Leadership Position
+20190520,Candidate20190520,Male,54,Nirmit,6,USA,Developed Country,Associate,1265598,2,15,43675,,,,29,9,0.04,354,149340.564,1414938.564,Non Leadership Position
+20190528,Candidate20190528,Male,51,Nirmit,6,Japan,Developed Country,Associate,1259913,2,12,43535,,,,28,7,0.05,351,147409.821,1407322.821,Non Leadership Position
+20190530,Candidate20190530,Male,50,Saksham,6,Japan,Developed Country,Analyst,1179554,3,11,43789,,,,26,8,0.09,300,117955.4,1297509.4,Non Leadership Position
+20190531,Candidate20190531,Female,23,Saksham,6,USA,Developed Country,Associate,1126009,3,15,43524,43973,Pay Disparity,Left,1,7,0.07,306,114852.918,1240861.918,Non Leadership Position
+20190533,Candidate20190533,Female,25,Saksham,2,USA,Developed Country,Associate,1087140,4,16,43711,44020,Better Opportunities,Left,3,3,0.1,313,113424.94,1200564.94,Non Leadership Position
+20190535,Candidate20190535,Male,34,Nirmit,6,Japan,Developed Country,Analyst,1055023,4,15,43641,,,,12,7,0.04,352,123789.3653,1178812.365,Non Leadership Position
+20190536,Candidate20190536,Male,29,Saksham,6,Brazil,Developing Country,VP,2830930,5,14,43602,,,,3,8,0.09,335,316120.5167,3147050.517,Leadership Position
+20190537,Candidate20190537,Male,49,Kashish,6,USA,Developed Country,Associate,1285905,1,13,43738,,,,23,8,0.08,323,138449.105,1424354.105,Non Leadership Position
+20190539,Candidate20190539,Male,34,Saksham,6,USA,Developed Country,Associate,1335970,2,17,43517,,,,11,8,0.07,334,148737.9933,1484707.993,Non Leadership Position
+20190540,Candidate20190540,Female,28,Kashish,6,Brazil,Developing Country,Associate,1146689,3,11,43691,43932,Better Opportunities,Left,3,4,0.09,302,115433.3593,1262122.359,Non Leadership Position
+20190543,Candidate20190543,Male,52,Khushi,6,USA,Developed Country,Associate,1281601,3,13,43778,,,,30,8,0.07,332,141830.5107,1423431.511,Non Leadership Position
+20190547,Candidate20190547,Male,33,Hashim,6,USA,Developed Country,Associate,1367477,4,13,43664,,,,8,9,0.04,338,154069.0753,1521546.075,Non Leadership Position
+20190559,Candidate20190559,Male,25,Saksham,6,Japan,Developed Country,Associate,1215585,3,16,43713,,,,3,7,0.04,344,139387.08,1354972.08,Non Leadership Position
+20190563,Candidate20190563,Female,49,Nirmit,6,USA,Developed Country,Associate,1088976,1,14,43660,44180,Pay Disparity,Left,25,6,0.07,305,110712.56,1199688.56,Non Leadership Position
+20190564,Candidate20190564,Female,26,Kashish,5,China,Developing Country,Analyst,834895,1,12,43619,44095,Better Opportunities,Left,4,5,0.11,313,87107.37833,922002.3783,Non Leadership Position
+20190565,Candidate20190565,Male,44,Hashim,3,India,Developing Country,MD,1994267,3,13,43582,,,,20,7,0.07,339,225352.171,2219619.171,Leadership Position
+20190566,Candidate20190566,Male,44,Kashish,2,China,Developing Country,VP,2822901,5,14,43741,,,,21,8,0.09,329,309578.143,3132479.143,Leadership Position
+20190583,Candidate20190583,Male,25,Kashish,6,Brazil,Developing Country,Analyst,1036035,3,16,43703,,,,3,7,0.06,347,119834.715,1155869.715,Non Leadership Position
+20190588,Candidate20190588,Female,26,Kashish,5,Japan,Developed Country,Analyst,856717,1,15,43578,44061,Negative Work Culture,Left,4,4,0.1,314,89669.71267,946386.7127,Non Leadership Position
+20190589,Candidate20190589,Female,29,Saksham,5,USA,Developed Country,Associate,1170399,2,15,43615,44001,Negative Work Culture,Left,6,3,0.11,314,122501.762,1292900.762,Non Leadership Position
+20190594,Candidate20190594,Male,32,Nirmit,1,Japan,Developed Country,Analyst,1178083,2,15,43584,,,,8,8,0.05,333,130767.213,1308850.213,Non Leadership Position
+20190600,Candidate20190600,Female,45,Khushi,6,USA,Developed Country,Associate,1082449,3,12,43556,44117,Negative Work Culture,Left,19,6,0.11,305,110048.9817,1192497.982,Non Leadership Position
+20190602,Candidate20190602,Male,32,Nirmit,6,Japan,Developed Country,Analyst,1174909,3,16,43529,,,,8,7,0.04,301,117882.5363,1292791.536,Non Leadership Position
+20190604,Candidate20190604,Male,51,Hashim,6,Japan,Developed Country,Analyst,1192255,4,13,43614,,,,27,7,0.07,329,130750.6317,1323005.632,Non Leadership Position
+20190609,Candidate20190609,Male,48,Kashish,6,USA,Developed Country,Associate,1379008,4,14,43588,,,,24,8,0.05,306,140658.816,1519666.816,Non Leadership Position
+20190622,Candidate20190622,Male,52,Nirmit,6,USA,Developed Country,Associate,1381651,1,14,43628,,,,29,7,0.09,300,138165.1,1519816.1,Non Leadership Position
+20190624,Candidate20190624,Male,32,Hashim,6,Japan,Developed Country,Analyst,1073794,1,17,43649,,,,6,9,0.07,348,124560.104,1198354.104,Non Leadership Position
+20190633,Candidate20190633,Female,29,Nirmit,6,Japan,Developed Country,Analyst,834869,2,16,43558,44177,Work Life Balance,Left,7,4,0.07,300,83486.9,918355.9,Non Leadership Position
+20190637,Candidate20190637,Male,36,Saksham,6,Brazil,Developing Country,ED,1684405,4,15,43523,,,,11,7,0.09,301,169001.9683,1853406.968,Leadership Position
+20190642,Candidate20190642,Male,49,Hashim,6,China,Developing Country,Analyst,1071100,2,12,43756,,,,25,10,0.05,305,108895.1667,1179995.167,Non Leadership Position
+20190643,Candidate20190643,Female,24,Hashim,6,Japan,Developed Country,Associate,1041608,4,13,43753,43962,Negative Work Culture,Left,2,4,0.08,316,109716.0427,1151324.043,Non Leadership Position
+20190644,Candidate20190644,Male,44,Hashim,6,Brazil,Developing Country,MD,1877382,2,13,43809,,,,22,8,0.09,345,215898.93,2093280.93,Leadership Position
+20190649,Candidate20190649,Male,35,Hashim,6,China,Developing Country,Analyst,1035851,3,16,43520,,,,9,8,0.08,305,105311.5183,1141162.518,Non Leadership Position
+20190651,Candidate20190651,Male,45,Saksham,6,Japan,Developed Country,Associate,1222059,1,15,43523,,,,23,7,0.05,306,124650.018,1346709.018,Non Leadership Position
+20190659,Candidate20190659,Female,26,Hashim,6,India,Developing Country,Analyst,931664,2,15,43639,44048,Better Opportunities,Left,4,7,0.08,314,97514.16533,1029178.165,Non Leadership Position
+20190665,Candidate20190665,Male,28,Khushi,6,USA,Developed Country,Associate,1376600,2,16,43590,,,,2,10,0.05,326,149590.5333,1526190.533,Non Leadership Position
+20190668,Candidate20190668,Male,47,Nirmit,6,China,Developing Country,Analyst,1080718,1,11,43771,,,,23,9,0.04,300,108071.8,1188789.8,Non Leadership Position
+20190670,Candidate20190670,Male,31,Saksham,6,Japan,Developed Country,Associate,1322739,2,15,43614,,,,8,9,0.04,316,139328.508,1462067.508,Non Leadership Position
+20190677,Candidate20190677,Female,28,Khushi,6,Brazil,Developing Country,Associate,1106694,4,14,43490,,,,2,8,0.11,316,116571.768,1223265.768,Non Leadership Position
+20190679,Candidate20190679,Male,41,Saksham,6,India,Developing Country,VP,2791328,5,17,43600,,,,16,9,0.09,304,282854.5707,3074182.571,Leadership Position
+20190684,Candidate20190684,Male,36,Hashim,6,Japan,Developed Country,Associate,1330065,3,12,43711,,,,14,9,0.04,313,138770.115,1468835.115,Non Leadership Position
+20190686,Candidate20190686,Female,26,Khushi,6,USA,Developed Country,Associate,1111476,3,15,43551,,,,4,7,0.07,302,111888.584,1223364.584,Non Leadership Position
+20190688,Candidate20190688,Female,27,Saksham,6,USA,Developed Country,Associate,1189333,4,12,43545,,,,1,3,0.1,303,120122.633,1309455.633,Non Leadership Position
+20190693,Candidate20190693,Male,35,Hashim,6,Japan,Developed Country,Associate,1274935,4,16,43606,,,,11,8,0.04,303,128768.435,1403703.435,Non Leadership Position
+20190698,Candidate20190698,Male,48,Hashim,6,Japan,Developed Country,Analyst,1120838,3,14,43736,,,,22,10,0.08,331,123665.7927,1244503.793,Non Leadership Position
+20190699,Candidate20190699,Male,46,Kashish,6,China,Developing Country,Analyst,1122086,2,15,43663,,,,24,9,0.06,340,127169.7467,1249255.747,Non Leadership Position
+20190701,Candidate20190701,Female,29,Hashim,6,Japan,Developed Country,Analyst,979743,4,15,43770,43948,Work Life Balance,Left,3,8,0.09,318,103852.758,1083595.758,Non Leadership Position
+20190703,Candidate20190703,Male,23,Kashish,6,USA,Developed Country,Associate,1328130,1,14,43490,,,,1,10,0.09,341,150964.11,1479094.11,Non Leadership Position
+20190704,Candidate20190704,Male,38,Hashim,4,USA,Developed Country,Associate,1276804,2,14,43503,,,,14,10,0.05,350,148960.4667,1425764.467,Non Leadership Position
+20190710,Candidate20190710,Male,28,Hashim,6,USA,Developed Country,Associate,1360549,3,13,43641,,,,5,10,0.04,342,155102.586,1515651.586,Non Leadership Position
+20190711,Candidate20190711,Male,40,Kashish,6,Japan,Developed Country,Analyst,1014003,1,17,43568,,,,14,7,0.04,321,108498.321,1122501.321,Non Leadership Position
+20190717,Candidate20190717,Female,22,Saksham,6,India,Developing Country,Analyst,980826,3,11,43679,,,,0,7,0.08,313,102332.846,1083158.846,Non Leadership Position
+20190719,Candidate20190719,Male,24,Khushi,6,Japan,Developed Country,Analyst,1176212,2,11,43748,,,,2,7,0.08,345,135264.38,1311476.38,Non Leadership Position
+20190722,Candidate20190722,Male,53,Nirmit,6,Japan,Developed Country,Analyst,1100574,3,13,43729,,,,27,7,0.06,339,124364.862,1224938.862,Non Leadership Position
+20190723,Candidate20190723,Female,51,Saksham,6,Japan,Developed Country,VP,2415289,5,13,43511,,,,29,10,0.1,311,250384.9597,2665673.96,Leadership Position
+20190724,Candidate20190724,Male,52,Saksham,6,USA,Developed Country,Associate,1369987,4,14,43550,,,,30,7,0.07,344,157091.8427,1527078.843,Non Leadership Position
+20190730,Candidate20190730,Female,28,Nirmit,6,Japan,Developed Country,Analyst,854047,4,16,43750,,,,4,3,0.08,311,88536.20567,942583.2057,Non Leadership Position
+20190731,Candidate20190731,Male,30,Kashish,6,USA,Developed Country,Associate,1300795,1,14,43627,,,,4,7,0.06,312,135282.68,1436077.68,Non Leadership Position
+20190732,Candidate20190732,Male,42,Saksham,6,China,Developing Country,Associate,1266441,1,13,43573,,,,19,8,0.08,352,148595.744,1415036.744,Non Leadership Position
+20190733,Candidate20190733,Female,25,Nirmit,2,Japan,Developed Country,Analyst,944230,1,14,43520,,,,3,5,0.07,310,97570.43333,1041800.433,Non Leadership Position
+20190737,Candidate20190737,Male,33,Nirmit,6,Japan,Developed Country,Analyst,1066247,2,16,43804,,,,8,9,0.05,314,111600.5193,1177847.519,Non Leadership Position
+20190740,Candidate20190740,Male,51,Hashim,6,USA,Developed Country,Associate,1201575,2,15,43634,,,,26,7,0.06,307,122961.175,1324536.175,Non Leadership Position
+20190742,Candidate20190742,Male,40,Saksham,5,China,Developing Country,Associate,1248795,2,16,43546,,,,14,8,0.05,342,142362.63,1391157.63,Non Leadership Position
+20190749,Candidate20190749,Male,31,Kashish,6,Japan,Developed Country,Analyst,1151016,3,12,43554,,,,7,8,0.06,308,118170.976,1269186.976,Non Leadership Position
+20190751,Candidate20190751,Female,22,Nirmit,6,USA,Developed Country,Associate,1060130,3,13,43591,,,,0,3,0.08,313,110606.8967,1170736.897,Non Leadership Position
+20190753,Candidate20190753,Female,22,Hashim,6,China,Developing Country,Associate,1144874,3,13,43755,,,,0,6,0.09,304,116013.8987,1260887.899,Non Leadership Position
+20190761,Candidate20190761,Male,27,Kashish,6,Japan,Developed Country,Analyst,1154447,4,16,43652,,,,4,10,0.08,349,134300.6677,1288747.668,Non Leadership Position
+20190764,Candidate20190764,Male,35,Kashish,6,USA,Developed Country,Associate,1317645,4,14,43682,,,,13,7,0.06,312,137035.08,1454680.08,Non Leadership Position
+20190766,Candidate20190766,Female,29,Hashim,6,Brazil,Developing Country,Analyst,810085,4,11,43678,,,,7,6,0.09,311,83978.81167,894063.8117,Non Leadership Position
+20190767,Candidate20190767,Male,53,Khushi,6,Japan,Developed Country,Analyst,1162412,1,16,43492,44122,Retirement,Left,30,7,0.06,301,116628.6707,1279040.671,Non Leadership Position
+20190779,Candidate20190779,Male,30,Kashish,6,Brazil,Developing Country,Associate,1251780,1,14,43716,,,,5,10,0.09,326,136026.76,1387806.76,Non Leadership Position
+20190780,Candidate20190780,Male,38,Khushi,6,Brazil,Developing Country,MD,1985503,3,12,43499,,,,16,7,0.09,338,223700.0047,2209203.005,Leadership Position
+20190782,Candidate20190782,Male,39,Khushi,6,USA,Developed Country,Associate,1281772,1,15,43536,,,,16,7,0.09,301,128604.4573,1410376.457,Non Leadership Position
+20190783,Candidate20190783,Male,31,Saksham,1,Japan,Developed Country,Analyst,1091521,2,12,43774,,,,9,7,0.04,340,123705.7133,1215226.713,Non Leadership Position
+20190786,Candidate20190786,Male,47,Saksham,6,USA,Developed Country,Associate,1395817,2,13,43578,,,,23,8,0.04,316,147026.0573,1542843.057,Non Leadership Position
+20190792,Candidate20190792,Male,36,Saksham,6,Japan,Developed Country,Analyst,1063010,3,14,43594,,,,13,10,0.07,317,112324.7233,1175334.723,Non Leadership Position
+20190795,Candidate20190795,Male,34,Nirmit,6,USA,Developed Country,Analyst,1047090,3,16,43723,,,,10,9,0.04,341,119019.23,1166109.23,Non Leadership Position
+20190796,Candidate20190796,Male,44,Kashish,6,Japan,Developed Country,Analyst,1086542,4,14,43791,,,,19,10,0.06,337,122054.8847,1208596.885,Non Leadership Position
+20190800,Candidate20190800,Male,42,Kashish,3,China,Developing Country,Associate,1379255,4,12,43640,,,,19,8,0.04,354,162752.09,1542007.09,Non Leadership Position
+20190803,Candidate20190803,Female,25,Saksham,3,Brazil,Developing Country,Analyst,810465,1,13,43586,,,,3,3,0.09,316,85368.98,895833.98,Non Leadership Position
+20190806,Candidate20190806,Male,46,Kashish,6,Japan,Developed Country,Analyst,1060667,1,12,43635,,,,20,10,0.06,355,125512.2617,1186179.262,Non Leadership Position
+20190810,Candidate20190810,Female,26,Nirmit,6,USA,Developed Country,Associate,1157218,3,16,43688,,,,4,4,0.1,312,120350.672,1277568.672,Non Leadership Position
+20190811,Candidate20190811,Male,38,Kashish,6,Japan,Developed Country,Analyst,1118093,2,12,43660,,,,12,7,0.06,351,130816.881,1248909.881,Non Leadership Position
+20190814,Candidate20190814,Male,33,Hashim,6,China,Developing Country,Associate,1382334,1,15,43487,,,,8,8,0.05,303,139615.734,1521949.734,Non Leadership Position
+20190824,Candidate20190824,Female,22,Nirmit,5,China,Developing Country,Associate,1113181,2,14,43541,,,,0,4,0.11,306,113544.462,1226725.462,Non Leadership Position
+20190826,Candidate20190826,Female,27,Nirmit,6,Japan,Developed Country,Analyst,944388,3,12,43594,,,,1,4,0.07,317,99790.332,1044178.332,Non Leadership Position
+20190833,Candidate20190833,Male,34,Nirmit,6,USA,Developed Country,Analyst,1023484,4,12,43538,,,,11,10,0.05,328,111900.9173,1135384.917,Non Leadership Position
+20190839,Candidate20190839,Female,22,Nirmit,6,Japan,Developed Country,Analyst,997249,4,12,43741,,,,0,7,0.08,302,100389.7327,1097638.733,Non Leadership Position
+20190843,Candidate20190843,Female,28,Khushi,1,Japan,Developed Country,Analyst,921844,1,14,43773,,,,4,4,0.07,318,97715.464,1019559.464,Non Leadership Position
+20190846,Candidate20190846,Female,52,Hashim,6,India,Developing Country,MD,1689573,4,12,43773,,,,26,6,0.1,301,169520.491,1859093.491,Leadership Position
+20190852,Candidate20190852,Male,39,Kashish,6,Japan,Developed Country,Analyst,1000767,3,13,43693,,,,14,7,0.08,305,101744.645,1102511.645,Non Leadership Position
+20190853,Candidate20190853,Male,27,Nirmit,6,India,Developing Country,Analyst,1148897,4,14,43674,,,,5,10,0.06,312,119485.288,1268382.288,Non Leadership Position
+20190854,Candidate20190854,Male,49,Hashim,6,Japan,Developed Country,Analyst,1127530,4,14,43543,,,,23,9,0.09,326,122524.9267,1250054.927,Non Leadership Position
+20190855,Candidate20190855,Male,53,Saksham,6,Japan,Developed Country,Analyst,1104850,1,13,43778,,,,30,10,0.07,340,125216.3333,1230066.333,Non Leadership Position
+20190856,Candidate20190856,Male,51,Khushi,6,Brazil,Developing Country,MD,1873824,4,12,43752,,,,29,10,0.09,315,196751.52,2070575.52,Leadership Position
+20190857,Candidate20190857,Male,25,Hashim,6,China,Developing Country,Associate,1241456,3,15,43786,,,,3,10,0.05,358,148147.0827,1389603.083,Non Leadership Position
+20190860,Candidate20190860,Male,52,Kashish,5,USA,Developed Country,Analyst,1083125,2,14,43563,,,,27,7,0.04,330,119143.75,1202268.75,Non Leadership Position
+20190867,Candidate20190867,Male,40,Kashish,4,India,Developing Country,ED,1605310,3,13,43537,,,,17,9,0.04,326,174443.6867,1779753.687,Leadership Position
+20190869,Candidate20190869,Male,46,Nirmit,6,Japan,Developed Country,Analyst,1028959,2,15,43521,,,,23,9,0.04,346,118673.2713,1147632.271,Non Leadership Position
+20190871,Candidate20190871,Male,38,Khushi,6,Japan,Developed Country,Analyst,1099416,3,16,43491,,,,13,7,0.08,340,124600.48,1224016.48,Non Leadership Position
+20190873,Candidate20190873,Female,26,Khushi,6,USA,Developed Country,Analyst,969221,3,13,43655,,,,4,5,0.07,300,96922.1,1066143.1,Non Leadership Position
+20190874,Candidate20190874,Male,23,Saksham,6,Japan,Developed Country,Associate,1233851,1,14,43613,,,,1,10,0.08,328,134901.0427,1368752.043,Non Leadership Position
+20190875,Candidate20190875,Male,51,Saksham,6,Japan,Developed Country,Associate,1238618,2,16,43769,,,,29,9,0.09,351,144918.306,1383536.306,Non Leadership Position
+20190880,Candidate20190880,Male,37,Nirmit,6,USA,Developed Country,Analyst,1104194,4,15,43711,,,,11,7,0.08,350,128822.6333,1233016.633,Non Leadership Position
+20190881,Candidate20190881,Male,29,Khushi,6,China,Developing Country,Associate,1342453,4,13,43621,,,,7,8,0.07,325,145432.4083,1487885.408,Non Leadership Position
+20190883,Candidate20190883,Female,36,Hashim,6,China,Developing Country,MD,1684518,4,14,43797,,,,14,3,0.11,318,178558.908,1863076.908,Leadership Position
+20190893,Candidate20190893,Male,28,Kashish,6,India,Developing Country,Analyst,1017386,1,15,43609,,,,4,9,0.08,352,119373.2907,1136759.291,Non Leadership Position
+20190894,Candidate20190894,Male,34,Kashish,6,China,Developing Country,Associate,1285955,1,14,43572,,,,11,9,0.05,338,144884.2633,1430839.263,Non Leadership Position
+20190899,Candidate20190899,Male,39,Khushi,1,USA,Developed Country,Analyst,1182772,1,17,43649,,,,15,9,0.05,306,120642.744,1303414.744,Non Leadership Position
+20190901,Candidate20190901,Male,47,Kashish,6,India,Developing Country,ED,1765175,4,13,43657,,,,25,8,0.08,303,178282.675,1943457.675,Leadership Position
+20190906,Candidate20190906,Male,48,Kashish,6,USA,Developed Country,Analyst,1095470,2,12,43591,,,,23,7,0.04,326,119041.0733,1214511.073,Non Leadership Position
+20190911,Candidate20190911,Male,44,Khushi,4,India,Developing Country,Associate,1373067,1,14,43622,,,,22,10,0.08,351,160648.839,1533715.839,Non Leadership Position
+20190912,Candidate20190912,Male,45,Nirmit,3,Japan,Developed Country,Associate,1378429,3,12,43679,,,,22,10,0.06,300,137842.9,1516271.9,Non Leadership Position
+20190914,Candidate20190914,Male,54,Khushi,6,India,Developing Country,Associate,1290386,2,12,43772,44053,Retirement,Left,31,8,0.09,315,135490.53,1425876.53,Non Leadership Position
+20190932,Candidate20190932,Male,37,Hashim,6,USA,Developed Country,Analyst,1166557,3,13,43538,,,,12,10,0.05,330,128321.27,1294878.27,Non Leadership Position
+20190936,Candidate20190936,Male,35,Hashim,6,USA,Developed Country,Analyst,1129206,4,15,43595,,,,11,10,0.04,327,123083.454,1252289.454,Non Leadership Position
+20190941,Candidate20190941,Male,33,Nirmit,1,China,Developing Country,Associate,1242442,2,14,43681,,,,10,10,0.06,326,135012.0307,1377454.031,Non Leadership Position
+20190943,Candidate20190943,Male,46,Kashish,6,India,Developing Country,Associate,1331472,3,14,43768,,,,23,9,0.08,301,133591.024,1465063.024,Non Leadership Position
+20190945,Candidate20190945,Male,48,Kashish,6,Japan,Developed Country,Associate,1289034,4,16,43767,,,,22,9,0.09,321,137926.638,1426960.638,Non Leadership Position
+20190946,Candidate20190946,Male,24,Khushi,6,USA,Developed Country,Analyst,1090116,1,16,43667,,,,2,7,0.06,339,123183.108,1213299.108,Non Leadership Position
+20190952,Candidate20190952,Female,25,Saksham,2,India,Developing Country,Associate,1151226,4,14,43629,,,,3,8,0.11,312,119727.504,1270953.504,Non Leadership Position
+20190955,Candidate20190955,Male,40,Khushi,6,Japan,Developed Country,Associate,1313637,1,13,43659,,,,17,7,0.04,313,137056.127,1450693.127,Non Leadership Position
+20190956,Candidate20190956,Male,53,Kashish,5,USA,Developed Country,Analyst,1187661,2,11,43524,,,,27,9,0.06,331,131038.597,1318699.597,Non Leadership Position
+20190960,Candidate20190960,Male,49,Kashish,6,USA,Developed Country,Analyst,1179329,3,14,43641,,,,23,10,0.05,345,135622.835,1314951.835,Non Leadership Position
+20190961,Candidate20190961,Female,24,Khushi,6,India,Developing Country,Associate,1106175,1,16,43493,,,,2,3,0.09,313,115410.925,1221585.925,Non Leadership Position
+20190965,Candidate20190965,Male,28,Khushi,6,Japan,Developed Country,Associate,1296240,2,13,43702,,,,5,9,0.07,344,148635.52,1444875.52,Non Leadership Position
+20190971,Candidate20190971,Male,22,Nirmit,1,Japan,Developed Country,Associate,1398451,3,11,43588,,,,0,8,0.08,356,165949.5187,1564400.519,Non Leadership Position
+20190972,Candidate20190972,Male,51,Kashish,1,Japan,Developed Country,Associate,1213600,4,14,43670,,,,27,7,0.08,313,126618.9333,1340218.933,Non Leadership Position
+20190973,Candidate20190973,Male,36,Khushi,6,India,Developing Country,Associate,1263720,2,14,43662,,,,12,9,0.06,333,140272.92,1403992.92,Non Leadership Position
+20190979,Candidate20190979,Female,50,Khushi,6,USA,Developed Country,Analyst,933737,4,15,43772,,,,28,4,0.11,314,97731.13933,1031468.139,Non Leadership Position
+20190980,Candidate20190980,Male,46,Kashish,3,USA,Developed Country,Analyst,1013023,1,13,43706,,,,21,9,0.09,324,109406.484,1122429.484,Non Leadership Position
+20190981,Candidate20190981,Male,51,Saksham,6,Japan,Developed Country,Associate,1255905,1,11,43530,,,,29,9,0.08,318,133125.93,1389030.93,Non Leadership Position
+20190983,Candidate20190983,Male,39,Saksham,6,China,Developing Country,Associate,1333799,3,14,43606,,,,17,7,0.08,305,135602.8983,1469401.898,Non Leadership Position
+20190988,Candidate20190988,Male,49,Kashish,6,USA,Developed Country,Analyst,1040340,2,13,43735,,,,27,8,0.07,327,113397.06,1153737.06,Non Leadership Position
+20191000,Candidate20191000,Female,27,Hashim,6,India,Developing Country,Associate,1056799,3,12,43521,,,,5,3,0.11,300,105679.9,1162478.9,Non Leadership Position
+20200002,Candidate20200002,Male,54,Khushi,6,USA,Developed Country,Associate,1258615,1,16,43953,,,,30,9,0.09,351,147257.955,1405872.955,Non Leadership Position
+20200003,Candidate20200003,Male,52,Khushi,6,India,Developing Country,Analyst,1089833,2,16,44053,,,,27,7,0.07,310,112616.0767,1202449.077,Non Leadership Position
+20200005,Candidate20200005,Male,27,Saksham,6,Brazil,Developing Country,Associate,1232091,3,16,43895,,,,1,4,0.05,306,125673.282,1357764.282,Non Leadership Position
+20200006,Candidate20200006,Male,26,Khushi,4,India,Developing Country,Analyst,1141060,4,17,44128,,,,4,7,0.08,352,133884.3733,1274944.373,Non Leadership Position
+20200007,Candidate20200007,Female,28,Kashish,6,India,Developing Country,Associate,1060585,1,16,44151,,,,4,7,0.08,317,112068.4817,1172653.482,Non Leadership Position
+20200008,Candidate20200008,Female,29,Hashim,2,USA,Developed Country,Analyst,866998,2,18,43994,,,,5,3,0.04,309,89300.794,956298.794,Non Leadership Position
+20200010,Candidate20200010,Female,27,Kashish,2,USA,Developed Country,Associate,1081960,3,17,43864,,,,1,4,0.05,304,109638.6133,1191598.613,Non Leadership Position
+20200012,Candidate20200012,Female,26,Kashish,6,India,Developing Country,Analyst,881813,4,15,44045,,,,4,3,0.09,303,89063.113,970876.113,Non Leadership Position
+20200014,Candidate20200014,Female,46,Kashish,6,Japan,Developed Country,Associate,1030748,1,16,44055,,,,24,5,0.04,316,108572.1227,1139320.123,Non Leadership Position
+20200015,Candidate20200015,Female,25,Khushi,6,Japan,Developed Country,Analyst,816100,2,17,43952,,,,3,5,0.07,311,84602.36667,900702.3667,Non Leadership Position
+20200018,Candidate20200018,Female,29,Khushi,6,Japan,Developed Country,Analyst,836929,3,14,44069,44095,Work Life Balance,Left,3,4,0.09,313,87319.59233,924248.5923,Non Leadership Position
+20200023,Candidate20200023,Female,29,Khushi,6,USA,Developed Country,Analyst,898698,4,15,43890,,,,6,4,0.06,304,91068.064,989766.064,Non Leadership Position
+20200024,Candidate20200024,Male,30,Kashish,6,India,Developing Country,Associate,1291641,1,17,43900,,,,7,8,0.04,326,140358.322,1431999.322,Non Leadership Position
+20200026,Candidate20200026,Male,27,Hashim,6,USA,Developed Country,Associate,1279470,2,13,43910,,,,5,9,0.07,311,132638.39,1412108.39,Non Leadership Position
+20200030,Candidate20200030,Female,22,Hashim,6,China,Developing Country,Analyst,838144,3,16,43971,,,,0,7,0.04,301,84093.78133,922237.7813,Non Leadership Position
+20200031,Candidate20200031,Male,22,Saksham,6,China,Developing Country,Analyst,1074302,4,13,43877,,,,0,5,0.06,359,128558.1393,1202860.139,Non Leadership Position
+20200032,Candidate20200032,Female,22,Kashish,4,Brazil,Developing Country,Analyst,939350,1,18,44009,,,,0,6,0.06,316,98944.86667,1038294.867,Non Leadership Position
+20200033,Candidate20200033,Female,28,Nirmit,6,Brazil,Developing Country,Associate,1069946,2,15,43942,,,,2,6,0.07,304,108421.1947,1178367.195,Non Leadership Position
+20200034,Candidate20200034,Female,27,Khushi,6,Japan,Developed Country,Analyst,960722,3,18,44161,,,,2,5,0.05,313,100235.3287,1060957.329,Non Leadership Position
+20200035,Candidate20200035,Female,25,Khushi,5,Japan,Developed Country,Associate,1068575,4,18,44086,,,,3,4,0.09,313,111487.9917,1180062.992,Non Leadership Position
+20200037,Candidate20200037,Female,30,Khushi,6,China,Developing Country,Associate,1013416,1,16,43949,43935,Work Life Balance,Left,6,6,0.07,319,107759.9013,1121175.901,Non Leadership Position
+20200043,Candidate20200043,Female,28,Khushi,6,India,Developing Country,Analyst,910969,2,16,43868,,,,2,6,0.08,313,95044.43233,1006013.432,Non Leadership Position
+20200044,Candidate20200044,Male,50,Kashish,4,India,Developing Country,Associate,1297400,3,13,43955,,,,28,7,0.04,340,147038.6667,1444438.667,Non Leadership Position
+20200047,Candidate20200047,Female,23,Khushi,6,Brazil,Developing Country,Analyst,812276,4,15,44017,,,,1,7,0.07,316,85559.73867,897835.7387,Non Leadership Position
+20200048,Candidate20200048,Female,29,Kashish,6,Japan,Developed Country,Analyst,806777,1,16,43932,,,,5,5,0.08,301,80946.62567,887723.6257,Non Leadership Position
+20200050,Candidate20200050,Female,30,Khushi,6,Brazil,Developing Country,Associate,1029892,2,15,44163,44069,Work Life Balance,Left,7,4,0.09,301,103332.4973,1133224.497,Non Leadership Position
+20200051,Candidate20200051,Male,54,Nirmit,6,Japan,Developed Country,Analyst,1166812,3,16,43999,,,,29,5,0.06,316,122904.1973,1289716.197,Non Leadership Position
+20200052,Candidate20200052,Male,28,Nirmit,6,USA,Developed Country,Analyst,1092987,4,16,43860,,,,5,6,0.06,345,125693.505,1218680.505,Non Leadership Position
+20200053,Candidate20200053,Male,38,Khushi,6,Brazil,Developing Country,Analyst,1130474,1,15,43985,,,,14,6,0.04,358,134903.2307,1265377.231,Non Leadership Position
+20200055,Candidate20200055,Male,38,Saksham,6,Brazil,Developing Country,Analyst,1033198,2,15,44034,,,,14,7,0.09,360,123983.76,1157181.76,Non Leadership Position
+20200057,Candidate20200057,Male,34,Khushi,6,USA,Developed Country,Associate,1254433,3,16,44180,,,,11,4,0.09,314,131297.3207,1385730.321,Non Leadership Position
+20200059,Candidate20200059,Male,42,Hashim,6,Japan,Developed Country,Analyst,1103903,4,18,43907,,,,18,6,0.08,346,127316.8127,1231219.813,Non Leadership Position
+20200061,Candidate20200061,Male,53,Khushi,6,Brazil,Developing Country,Associate,1312959,1,15,44070,,,,29,4,0.11,307,134359.471,1447318.471,Non Leadership Position
+20200064,Candidate20200064,Male,55,Khushi,5,Japan,Developed Country,Associate,1355589,2,17,44072,43990,Retirement,Left,33,9,0.09,337,152277.831,1507866.831,Non Leadership Position
+20200066,Candidate20200066,Male,30,Kashish,6,Brazil,Developing Country,Analyst,1050560,3,16,43848,,,,5,6,0.04,342,119763.84,1170323.84,Non Leadership Position
+20200067,Candidate20200067,Male,45,Nirmit,6,Brazil,Developing Country,Associate,1266020,4,18,43971,,,,22,8,0.07,335,141372.2333,1407392.233,Non Leadership Position
+20200068,Candidate20200068,Male,31,Nirmit,6,USA,Developed Country,Associate,1214998,1,14,43884,,,,5,7,0.11,335,135674.7767,1350672.777,Non Leadership Position
+20200069,Candidate20200069,Female,23,Nirmit,6,USA,Developed Country,Associate,1146395,2,15,43921,,,,1,3,0.08,317,121135.7383,1267530.738,Non Leadership Position
+20200070,Candidate20200070,Female,29,Khushi,3,USA,Developed Country,Analyst,876506,3,17,44096,44166,Work Life Balance,Left,5,7,0.05,313,91448.79267,967954.7927,Non Leadership Position
+20200071,Candidate20200071,Female,22,Saksham,6,Japan,Developed Country,Analyst,834403,4,18,44053,,,,0,7,0.06,311,86499.77767,920902.7777,Non Leadership Position
+20200072,Candidate20200072,Female,53,Hashim,6,Brazil,Developing Country,Associate,1166331,1,16,44034,44030,Retirement,Left,30,5,0.09,307,119354.539,1285685.539,Non Leadership Position
+20200073,Candidate20200073,Male,22,Nirmit,6,USA,Developed Country,Analyst,1138935,2,15,44153,,,,0,8,0.05,323,122625.335,1261560.335,Non Leadership Position
+20200074,Candidate20200074,Male,53,Saksham,6,India,Developing Country,Analyst,1192239,3,15,43929,,,,29,8,0.08,300,119223.9,1311462.9,Non Leadership Position
+20200075,Candidate20200075,Female,24,Saksham,6,Brazil,Developing Country,Associate,1101109,4,18,43978,,,,2,6,0.05,307,112680.1543,1213789.154,Non Leadership Position
+20200077,Candidate20200077,Male,45,Nirmit,6,USA,Developed Country,Associate,1308735,1,18,43963,,,,22,4,0.11,327,142652.115,1451387.115,Non Leadership Position
+20200078,Candidate20200078,Female,28,Hashim,6,China,Developing Country,Analyst,831962,2,17,43951,,,,6,5,0.08,319,88465.29267,920427.2927,Non Leadership Position
+20200081,Candidate20200081,Male,23,Kashish,6,USA,Developed Country,Associate,1228682,3,14,43972,,,,1,4,0.09,351,143755.794,1372437.794,Non Leadership Position
+20200083,Candidate20200083,Male,32,Nirmit,6,Japan,Developed Country,Analyst,1037374,4,16,44023,,,,6,7,0.06,316,109270.0613,1146644.061,Non Leadership Position
+20200086,Candidate20200086,Male,38,Khushi,6,China,Developing Country,Analyst,1048526,1,17,43955,,,,16,5,0.09,350,122328.0333,1170854.033,Non Leadership Position
+20200088,Candidate20200088,Male,22,Khushi,6,India,Developing Country,Associate,1304221,2,15,44115,,,,0,9,0.07,311,135204.2437,1439425.244,Non Leadership Position
+20200090,Candidate20200090,Male,43,Nirmit,2,Brazil,Developing Country,Analyst,1123931,3,17,44013,,,,20,7,0.06,328,122883.1227,1246814.123,Non Leadership Position
+20200091,Candidate20200091,Male,40,Saksham,6,India,Developing Country,Analyst,1042376,4,19,43855,,,,18,8,0.08,326,113271.5253,1155647.525,Non Leadership Position
+20200092,Candidate20200092,Male,43,Hashim,6,Brazil,Developing Country,Analyst,1099294,1,13,44129,,,,18,4,0.06,338,123853.7907,1223147.791,Non Leadership Position
+20200094,Candidate20200094,Male,22,Saksham,6,India,Developing Country,Analyst,1180166,2,16,44163,,,,0,9,0.06,305,119983.5433,1300149.543,Non Leadership Position
+20200095,Candidate20200095,Female,28,Kashish,6,USA,Developed Country,Analyst,959113,3,18,44094,,,,4,4,0.08,309,98788.639,1057901.639,Non Leadership Position
+20200098,Candidate20200098,Male,50,Kashish,6,Japan,Developed Country,Associate,1207169,4,17,44054,,,,24,7,0.04,353,142043.5523,1349212.552,Non Leadership Position
+20200100,Candidate20200100,Male,27,Khushi,5,Brazil,Developing Country,Associate,1249356,1,15,44029,,,,5,4,0.05,340,141593.68,1390949.68,Non Leadership Position
+20200105,Candidate20200105,Male,38,Nirmit,6,Brazil,Developing Country,Associate,1213838,2,15,43952,,,,12,8,0.05,310,125429.9267,1339267.927,Non Leadership Position
+20200108,Candidate20200108,Female,25,Nirmit,6,USA,Developed Country,Analyst,997077,3,16,44114,,,,3,7,0.06,319,106022.521,1103099.521,Non Leadership Position
+20200109,Candidate20200109,Male,48,Khushi,1,India,Developing Country,Associate,1323548,4,17,43898,,,,25,4,0.04,317,139854.9053,1463402.905,Non Leadership Position
+20200114,Candidate20200114,Male,27,Kashish,6,Brazil,Developing Country,Analyst,1166826,1,16,43874,,,,1,9,0.04,322,125239.324,1292065.324,Non Leadership Position
+20200118,Candidate20200118,Female,23,Nirmit,6,Japan,Developed Country,Analyst,904805,2,16,44167,,,,1,7,0.06,316,95306.12667,1000111.127,Non Leadership Position
+20200119,Candidate20200119,Male,27,Kashish,6,Brazil,Developing Country,Analyst,1005530,3,15,43983,,,,1,5,0.09,346,115971.1267,1121501.127,Non Leadership Position
+20200120,Candidate20200120,Male,31,Hashim,6,India,Developing Country,Associate,1235459,4,17,44128,,,,6,6,0.04,321,132194.113,1367653.113,Non Leadership Position
+20200121,Candidate20200121,Female,30,Nirmit,3,Japan,Developed Country,Analyst,910074,1,14,43998,44137,Work Life Balance,Left,5,5,0.04,301,91310.758,1001384.758,Non Leadership Position
+20200123,Candidate20200123,Male,36,Nirmit,3,USA,Developed Country,Analyst,1148289,2,15,44156,,,,14,9,0.07,322,123249.686,1271538.686,Non Leadership Position
+20200124,Candidate20200124,Male,48,Kashish,6,Japan,Developed Country,Associate,1317303,3,17,44175,,,,25,8,0.07,330,144903.33,1462206.33,Non Leadership Position
+20200127,Candidate20200127,Male,48,Khushi,6,Japan,Developed Country,Analyst,1154220,4,16,44169,,,,24,9,0.09,322,123886.28,1278106.28,Non Leadership Position
+20200129,Candidate20200129,Male,52,Khushi,6,China,Developing Country,Analyst,1002863,1,15,43889,,,,27,5,0.09,309,103294.889,1106157.889,Non Leadership Position
+20200130,Candidate20200130,Male,37,Kashish,6,USA,Developed Country,Associate,1395286,2,14,43894,,,,12,6,0.07,301,139993.6953,1535279.695,Non Leadership Position
+20200131,Candidate20200131,Male,51,Khushi,6,Brazil,Developing Country,Analyst,1024593,3,19,44179,,,,29,4,0.08,324,110656.044,1135249.044,Non Leadership Position
+20200133,Candidate20200133,Male,36,Saksham,6,Japan,Developed Country,Analyst,1066029,4,14,43957,,,,14,4,0.06,308,109445.644,1175474.644,Non Leadership Position
+20200134,Candidate20200134,Female,23,Khushi,6,Japan,Developed Country,Analyst,855002,1,14,44160,,,,1,5,0.08,319,90915.21267,945917.2127,Non Leadership Position
+20200135,Candidate20200135,Male,31,Khushi,6,Brazil,Developing Country,Associate,1228837,2,14,44069,,,,8,5,0.11,308,126160.5987,1354997.599,Non Leadership Position
+20200138,Candidate20200138,Male,43,Kashish,6,India,Developing Country,Analyst,1185626,3,14,44082,,,,20,9,0.08,323,127652.3993,1313278.399,Non Leadership Position
+20200139,Candidate20200139,Male,37,Saksham,6,USA,Developed Country,Analyst,1123528,4,17,44141,,,,13,5,0.04,332,124337.0987,1247865.099,Non Leadership Position
+20200141,Candidate20200141,Male,36,Saksham,6,Brazil,Developing Country,Associate,1279950,1,18,44097,,,,13,4,0.06,304,129701.6,1409651.6,Non Leadership Position
+20200144,Candidate20200144,Male,35,Nirmit,6,USA,Developed Country,Analyst,1095211,2,17,44106,,,,9,8,0.05,333,121568.421,1216779.421,Non Leadership Position
+20200147,Candidate20200147,Male,46,Kashish,6,India,Developing Country,Analyst,1097835,3,15,44151,,,,22,7,0.09,318,116370.51,1214205.51,Non Leadership Position
+20200148,Candidate20200148,Male,55,Nirmit,6,China,Developing Country,Analyst,1087761,4,13,44171,,,,32,5,0.05,308,111676.796,1199437.796,Non Leadership Position
+20200150,Candidate20200150,Male,53,Kashish,2,China,Developing Country,Analyst,1052479,1,14,44160,,,,29,6,0.08,359,125946.6537,1178425.654,Non Leadership Position
+20200154,Candidate20200154,Male,41,Nirmit,6,Brazil,Developing Country,Associate,1299321,2,16,44086,,,,16,8,0.07,346,149855.022,1449176.022,Non Leadership Position
+20200155,Candidate20200155,Male,24,Kashish,4,Japan,Developed Country,Associate,1283525,3,17,44056,,,,2,5,0.04,330,141187.75,1424712.75,Non Leadership Position
+20200158,Candidate20200158,Male,53,Hashim,1,USA,Developed Country,Analyst,1084658,4,16,43854,44175,Retirement,Left,28,5,0.07,355,128351.1967,1213009.197,Non Leadership Position
+20200159,Candidate20200159,Male,45,Kashish,6,China,Developing Country,Analyst,1026819,1,15,43996,,,,23,4,0.04,312,106789.176,1133608.176,Non Leadership Position
+20200161,Candidate20200161,Male,40,Nirmit,6,USA,Developed Country,Associate,1315530,2,17,44039,,,,17,6,0.07,345,151285.95,1466815.95,Non Leadership Position
+20200165,Candidate20200165,Male,25,Nirmit,6,Japan,Developed Country,Analyst,1059501,3,14,44040,,,,3,5,0.07,340,120076.78,1179577.78,Non Leadership Position
+20200166,Candidate20200166,Female,23,Saksham,6,Brazil,Developing Country,Associate,1019427,4,15,43865,,,,1,4,0.04,318,108059.262,1127486.262,Non Leadership Position
+20200172,Candidate20200172,Male,41,Nirmit,6,USA,Developed Country,Analyst,1150501,1,14,44164,,,,18,6,0.04,348,133458.116,1283959.116,Non Leadership Position
+20200173,Candidate20200173,Male,22,Nirmit,6,India,Developing Country,Associate,1271572,2,15,44070,,,,0,7,0.07,356,150893.2107,1422465.211,Non Leadership Position
+20200180,Candidate20200180,Male,54,Khushi,6,USA,Developed Country,Analyst,1046951,3,16,44016,,,,31,9,0.07,337,117607.4957,1164558.496,Non Leadership Position
+20200181,Candidate20200181,Female,25,Hashim,6,China,Developing Country,Analyst,883491,4,14,44174,,,,3,5,0.09,301,88643.597,972134.597,Non Leadership Position
+20200184,Candidate20200184,Female,23,Saksham,6,India,Developing Country,Analyst,998848,1,17,44101,,,,1,3,0.05,315,104879.04,1103727.04,Non Leadership Position
+20200185,Candidate20200185,Female,25,Hashim,6,Brazil,Developing Country,Analyst,866483,2,15,43957,,,,3,5,0.04,302,87225.95533,953708.9553,Non Leadership Position
+20200187,Candidate20200187,Male,29,Hashim,6,India,Developing Country,Analyst,1163653,3,15,43965,,,,3,7,0.08,336,130329.136,1293982.136,Non Leadership Position
+20200188,Candidate20200188,Male,49,Nirmit,6,India,Developing Country,Associate,1273632,4,18,43917,,,,27,9,0.09,326,138401.344,1412033.344,Non Leadership Position
+20200189,Candidate20200189,Male,54,Nirmit,6,USA,Developed Country,Analyst,1035104,1,15,44071,44117,Retirement,Left,31,7,0.09,349,120417.0987,1155521.099,Non Leadership Position
+20200190,Candidate20200190,Male,30,Khushi,4,USA,Developed Country,Associate,1367089,2,16,43851,,,,7,7,0.08,325,148101.3083,1515190.308,Non Leadership Position
+20200192,Candidate20200192,Male,46,Kashish,6,USA,Developed Country,Analyst,1097304,3,19,43954,,,,24,5,0.07,319,116679.992,1213983.992,Non Leadership Position
+20200195,Candidate20200195,Female,26,Nirmit,6,USA,Developed Country,Analyst,949503,4,18,43952,,,,4,6,0.04,301,95266.801,1044769.801,Non Leadership Position
+20200196,Candidate20200196,Male,26,Hashim,6,India,Developing Country,Analyst,1183552,1,16,44096,,,,4,6,0.11,319,125851.0293,1309403.029,Non Leadership Position
+20200197,Candidate20200197,Female,52,Kashish,6,India,Developing Country,Analyst,943879,2,14,44099,,,,30,5,0.05,307,96590.28433,1040469.284,Non Leadership Position
+20200198,Candidate20200198,Female,42,Kashish,6,China,Developing Country,Analyst,996702,3,16,43863,,,,19,3,0.09,314,104321.476,1101023.476,Non Leadership Position
+20200199,Candidate20200199,Male,39,Saksham,6,USA,Developed Country,Analyst,1001042,4,18,44108,,,,14,8,0.08,326,108779.8973,1109821.897,Non Leadership Position
+20200201,Candidate20200201,Male,33,Saksham,6,Japan,Developed Country,Associate,1355954,1,14,43979,,,,8,7,0.08,301,136047.3847,1492001.385,Non Leadership Position
+20200203,Candidate20200203,Male,49,Kashish,6,USA,Developed Country,Associate,1241368,2,19,44091,,,,26,4,0.09,319,131998.7973,1373366.797,Non Leadership Position
+20200205,Candidate20200205,Male,38,Hashim,6,India,Developing Country,Associate,1236073,3,19,44022,,,,15,5,0.07,355,146268.6383,1382341.638,Non Leadership Position
+20200208,Candidate20200208,Male,32,Khushi,6,Japan,Developed Country,Analyst,1122656,4,15,44163,,,,6,8,0.04,318,119001.536,1241657.536,Non Leadership Position
+20200209,Candidate20200209,Male,27,Kashish,6,Japan,Developed Country,Analyst,1017600,1,15,43864,,,,2,9,0.05,315,106848,1124448,Non Leadership Position
+20200211,Candidate20200211,Male,29,Saksham,6,Japan,Developed Country,Analyst,1115533,2,15,44024,,,,7,4,0.09,333,123824.163,1239357.163,Non Leadership Position
+20200213,Candidate20200213,Female,29,Khushi,6,India,Developing Country,Associate,1188934,3,13,43861,,,,6,3,0.07,301,119289.7113,1308223.711,Non Leadership Position
+20200214,Candidate20200214,Female,47,Nirmit,3,Japan,Developed Country,Associate,1163435,4,18,44131,,,,22,4,0.1,313,121385.0517,1284820.052,Non Leadership Position
+20200216,Candidate20200216,Female,46,Hashim,6,India,Developing Country,Analyst,949717,1,17,43956,,,,21,6,0.04,315,99720.285,1049437.285,Non Leadership Position
+20200218,Candidate20200218,Male,35,Nirmit,6,India,Developing Country,Analyst,1133895,2,14,44111,,,,11,6,0.09,311,117547.115,1251442.115,Non Leadership Position
+20200220,Candidate20200220,Female,29,Kashish,6,China,Developing Country,Analyst,983100,3,14,44088,,,,6,4,0.08,316,103553.2,1086653.2,Non Leadership Position
+20200221,Candidate20200221,Male,46,Hashim,6,China,Developing Country,Analyst,1075206,4,17,44163,,,,20,7,0.07,312,111821.424,1187027.424,Non Leadership Position
+20200222,Candidate20200222,Female,22,Kashish,6,China,Developing Country,Associate,1020646,1,15,44126,,,,0,6,0.09,319,108528.6913,1129174.691,Non Leadership Position
